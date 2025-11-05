@@ -1,5 +1,6 @@
-#<h2>Scope</h2>
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-automated-blue) ![Update Frequency](https://img.shields.io/badge/update-every_10_minutes-brightgreen)
+## Scope
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-automated-blue) 
+![Update Frequency](https://img.shields.io/badge/update-every_10_minutes-brightgreen)
 
 This repo maintain's in-scope and out-of-scope
 NewData:
