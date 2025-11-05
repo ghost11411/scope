@@ -12,7 +12,7 @@ Domains
 
 GithubRepo
 
-        newdata_inscope_github_repo.txt
+    newdata_inscope_github_repo.txt
 
 AllData:
 All inscope
@@ -21,7 +21,7 @@ All inscope
 
 All outofscope
 
-        outofscope.txt
+    outofscope.txt
 
 Main files:
 Wildcards:
@@ -36,8 +36,8 @@ Domains:
 
 GithubRepo:
 
-        inscope_github_repo.txt
-        outofscope_github_repo.txt
+    inscope_github_repo.txt
+    outofscope_github_repo.txt
 
 Platform Based files:
 Bugcrowd:
@@ -72,13 +72,13 @@ Intigriti:
 
 Yeswehack:
 
-        yeswehack_inscope.txt
+    yeswehack_inscope.txt
 
-        yeswehack_outofscope.txt
+    yeswehack_outofscope.txt
 
-        yeswehack_github_repo_inscope.txt
+    yeswehack_github_repo_inscope.txt
 
-        yeswehack_github_repo_outofscope.txt
+    yeswehack_github_repo_outofscope.txt
 
 📌 References
 
