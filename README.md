@@ -1,5 +1,7 @@
 <h2>scope</h2>
 
+[![Scope Moniter](https://github.com/ghost11411/scope/actions/workflows/actions.yml/badge.svg)](https://github.com/ghost11411/scope/actions/workflows/actions.yml)
+
 This repo maintain's in-scope and out-of-scope
 NewData:
 Wildcards
