@@ -2,7 +2,7 @@ name: Scope Moniter
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 * * * *'   # Run every hour
   push:
     branches:
       - main
