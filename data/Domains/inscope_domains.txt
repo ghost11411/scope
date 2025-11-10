@@ -2586,9 +2586,7 @@ screenshot-proxy.netlify.app
 supportal.netlify.app
 4njbets.com
 4njbets.tvg.com
-4njbets.tvgnetwork.com
 4njbets.us.betfair.com
-b2b.tvgnetwork.com
 fanduel.com
 ia.tvg.com
 login-4ngbets.us.betfair.com
@@ -3793,16 +3791,6 @@ kuleuven.be
 humo.be
 myaccount.humo.be
 shop.humo.be
-kassa.gamma.be
-kassa.gamma.nl
-kassa.karwei.nl
-mijn.gamma.be
-mijn.gamma.nl
-mijn.karwei.nl
-gamma.be
-gamma.nl
-karwei.nl
-irmg.nl
 booking.mjrtheatres.com
 extras.landmarkcinemas.com
 identityserver.landmarkcinemas.com
