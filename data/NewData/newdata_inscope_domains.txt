@@ -1,2 +1,10 @@
 mintmobile.com
 ultramobile.com
+sandbox-b2b.ripio.com
+support.dashlane.com
+api.dashlane.com
+app.dashlane.com
+console.dashlane.com
+dashlane.com
+logs.dashlane.com
+ws1.dashlane.com

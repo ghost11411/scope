@@ -837,11 +837,11 @@ cloud.mongodb.com
 marketplace.visualstudio.com
 mongodb.mongodb
 *ripiotrade.co
-b2b-api.ripio.com
 defi.ripio.com
 auth.ripio.com
 app.ripio.com
 kyc.ripio.com
+sandbox-b2b.ripio.com
 trade.ripio.com
 *.deribit.com
 insights.deribit.com
@@ -2805,6 +2805,13 @@ wiki.grab.com
 xtramile.grabpay.com
 moneybird.com
 moneybirdstorage.com
+support.dashlane.com
+api.dashlane.com
+app.dashlane.com
+console.dashlane.com
+dashlane.com
+logs.dashlane.com
+ws1.dashlane.com
 udemy.com
 yourcompany.udemy.com
 *.kayak.com
