@@ -1,7 +1,5 @@
-app.aikido.dev
-winkels.torfs.be
-schoenentorfs.be
-schoenentorfs.nl
-torfs.be
-torfs.nl
-samenfittorfs.be
+mydirtyhobby.com
+mydirtyhobby.de
+it.mydirtyhobby.com
+es.mydirtyhobby.com
+fr.mydirtyhobby.com
