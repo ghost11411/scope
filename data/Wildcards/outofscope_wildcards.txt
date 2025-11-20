@@ -62,9 +62,6 @@ hsd1.*.comcast.net
 *.guildofguardians.com
 *.joralocal.com.au
 *.business.just-eat.co.uk
-*kohls.com
-*kohlsecommerce.com
-*.kohls.com
 *-sdb.kucoin.com
 *-sandbox.kucoin.com
 *.myfourchette.com
@@ -543,6 +540,7 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
+*.aikido.dev
 *.allegro.cz
 *.allegro.pl
 *.allegro.sk
