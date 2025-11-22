@@ -148,10 +148,6 @@ casino.*.betmgm.com
 *.yourdelivery.de
 *.just-data.io
 *.jet-external.com
-*.remove.bg
-*.designify.com
-*.kaleido.ai
-*.unscreen.com
 *.kucoin.com
 *.28degreescard.com.au
 *.buyersedge.com.au
@@ -1590,10 +1586,6 @@ api.justeat-int.com
 yourdelivery.de
 just-data.io
 jet-external.com
-remove.bg
-designify.com
-kaleido.ai
-unscreen.com
 keepersecurity.com
 microsoft.com
 docs.keeper.io
@@ -1696,6 +1688,10 @@ vtcprodapi.maf.ae
 svchifi.svc
 production.maf.auth0.com
 maf-holding-prod.apigee.net
+malloftheemirates.com
+api.mafshoppingmalls.com
+premogiftcards.com
+identity.majidalfuttaim.com
 mastercard.us
 mastercard.ch
 mastercard.com.au

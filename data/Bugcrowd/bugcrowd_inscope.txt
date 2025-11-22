@@ -535,14 +535,6 @@ just-data.io
 *.just-data.io
 jet-external.com
 *.jet-external.com
-remove.bg
-*.remove.bg
-designify.com
-*.designify.com
-kaleido.ai
-*.kaleido.ai
-unscreen.com
-*.unscreen.com
 keepersecurity.com
 microsoft.com
 docs.keeper.io
@@ -682,6 +674,10 @@ vtcprodapi.maf.ae
 svchifi.svc
 production.maf.auth0.com
 maf-holding-prod.apigee.net
+malloftheemirates.com
+api.mafshoppingmalls.com
+premogiftcards.com
+identity.majidalfuttaim.com
 mastercard.us
 mastercard.ch
 mastercard.com.au
