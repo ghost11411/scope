@@ -2885,6 +2885,7 @@ press.wolt.com
 wolt.atlassian.net
 zabka-snrs.zabka.pl
 foodziki.zabka.pl
+vznkul.be
 posthog.intigriti.com
 trust.intigriti.com
 swag.intigriti.com
@@ -2999,6 +3000,7 @@ newsletter.infomaniak.com
 ov-xx.infomaniak.ch
 od-xx.infomaniak.ch
 drive.infomaniak.com
+jenkins.io
 matrixreq.com
 demo.matrixreq.com
 paymaya.com
