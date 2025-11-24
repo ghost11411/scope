@@ -530,6 +530,7 @@ cf.*.aws.indriverapp
 *.watsons.com.tr
 *.watsons.com.tw
 *.watsons.vn
+*.lookatme.com.ph
 *.pipopay.com
 *.tiktok.com
 *.tiktokcdn.com
@@ -3386,6 +3387,7 @@ blog.watsons.com.tr
 drogas.lt
 drogas.lv
 kruidvat.nl
+lookatme.com.ph
 mapi.moneyback.com.hk
 media.drogas.lt
 media.drogas.lv
@@ -5050,11 +5052,6 @@ no.kolonial.tienda
 se.mathem.mathem
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
-app.pdq.com
-portal.pdq.com
-a.simplemdm.com
-auth2.pdq.com
-library.pdq.com
 api.personio-dev.com
 api.personio.com
 community.personio.com
