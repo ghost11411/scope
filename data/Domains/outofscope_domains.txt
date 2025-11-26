@@ -2558,9 +2558,6 @@ kiwa.com
 careers.lansweeper.com
 lansweeper.com
 libelle.nl
-community.monzo.com
-login.internal.monzo.com
-monzo.me
 docs.moralis.io
 status.moralis.io
 idp-contact.nexuzhealth.be
@@ -2918,6 +2915,7 @@ explore.alasco.com
 explore.alasco.de
 alasco.de
 logging.apache.org
+gitlab.isc.org
 blog.bitoasis.net
 dev.blablacar.com
 sncf-connect.com
