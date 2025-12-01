@@ -2,3 +2,4 @@ api.anytask.com
 anytask.com
 api.anytask.thesecurityteam.rocks
 anytask.thesecurityteam.rocks
+login.prod.nube.tech
