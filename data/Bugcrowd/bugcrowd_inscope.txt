@@ -1418,3 +1418,4 @@ aiq-prod.codebig2.net
 staging-app.bany.dev
 staging-api.bany.dev
 ynab.com
+baby.zola.com
