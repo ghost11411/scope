@@ -967,6 +967,7 @@ tripactions.com
 status.newrelic.com
 docs.newrelic.com
 iopipe.com
+one.newrelic.com
 northwesternmutual.com
 servicenmfn.awms.apps.northwesternmutual.com
 servicenmfnstage.awms.apps.northwesternmutual.com
@@ -1441,6 +1442,7 @@ locker.klarna.com
 nuji.com
 docs.wallet.tg
 wallet.helpscoutdocs.com
+affiliates.fanduel.com
 api-dev.singlestore.com
 authsvc-staging.singlestore.com
 backend-dev.singlestore.com
