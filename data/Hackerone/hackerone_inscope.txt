@@ -67,8 +67,6 @@ bcny.com
 company.thebrowser.arc
 diabrowser.com
 thebrowser.company
-*.onduo.com
-enroll.onduo.com
 *.projectbaseline.com
 *.signalpath.com
 *.verily.com
@@ -2496,6 +2494,7 @@ api-partner.spotify.com
 api.spotify.com
 assets.spotify.com
 backstage.io
+whosampled.com
 *.ra.roblox.com
 *.rbx.com
 *.roblox.com

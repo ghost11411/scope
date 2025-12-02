@@ -348,7 +348,6 @@ sip.*.twilio.com
 *.hubspotpagebuilder.eu
 *.hubapi.com
 *.hubspot.com
-*.onduo.com
 *.projectbaseline.com
 *.signalpath.com
 *.verily.com
@@ -1084,8 +1083,6 @@ cf.*.aws.indriverapp
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
-*.monzo.com
-*.prod-ffs.io
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
