@@ -1,2 +1,6 @@
-*.monzo.com
-*.prod-ffs.io
+*.cultbeauty.co.uk
+*.lookfantastic.com
+*.myprotein.com
+*.arrowfilms.com
+*.enjoyselfish.com
+*.veriff.com
