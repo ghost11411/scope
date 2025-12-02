@@ -201,6 +201,7 @@ consensus2024.sandbox.events.coindesk.com
 console.delltechnologies.com
 app.sandbox.directly.com
 sandbox.directly.com
+docs.eazybi.com
 my.elementor.com
 go.elementor.com
 translate.elementor.com
@@ -880,6 +881,9 @@ secure-signals-srvonly-integ.uidapi.com
 api.thousandeyes.com
 app.thousandeyes.com
 thousandeyes.com
+tidal.com
+api.tidal.com
+offer.tidal.com
 api.trello.com
 butlerfortrello.com
 api.production.cde.tamg.cloud
