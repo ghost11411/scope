@@ -1,4 +1,1 @@
-*eua.cms.gov
-*qpp.cms.gov
-*cssoperations.com
-*nsa-idr.cms.gov
+*.datacamp.com
