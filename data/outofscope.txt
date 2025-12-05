@@ -3179,6 +3179,15 @@ houseofhr.com
 rebel.houseofhr.com
 humo.be
 abonnement.humo.be
+autodiscover.innogames.de
+exchange.innogames.de
+igjam.eu
+jamf.innogames.com
+mail.innogames.com
+newsroom.innogames.com
+pn.innogames.com
+slack.innogames.de
+typingmind.innogames.de
 trismegistos.org
 dev.kinepolis.com
 helpdesk.landmarkcinemas.com
@@ -3206,6 +3215,7 @@ nexuzhealth.atlassian.net
 pro.nexuzhealth.hn
 store.ninjakiwi.com
 support.ninjakiwi.com
+pol-dev.ovotech.org.uk
 prod.tardis.ovotech.org.uk
 pol.ovotech.org.uk
 notification-service.ovotech.org.uk
