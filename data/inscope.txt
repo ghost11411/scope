@@ -1019,7 +1019,6 @@ cf.*.aws.indriverapp
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1603,11 +1602,6 @@ docs.keeper.io
 kw-bugcrowd-pub.bounty.kiteworks.dev
 kohls.com
 kucoin.com
-manager.thefork.com
-secure.thefork.com
-payment.lafourchette.com
-api.thefork.io
-theforkmanager.com
 lastpass.com
 support.lastpass.com
 blog.lastpass.com
@@ -2119,6 +2113,11 @@ tempus-ex.com
 docs.tempus-ex.com
 infiniteathlete.ai
 platform.infiniteathlete.ai
+manager.thefork.com
+secure.thefork.com
+payment.lafourchette.com
+api.thefork.io
+theforkmanager.com
 thefork.com
 m.thefork.com
 blog.thefork.com
@@ -4890,14 +4889,6 @@ unified.cloudways.com
 cloudways.com
 css-tricks.com
 justonweb.be
-app.datacamp.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com
-assessment.datacamp.com
-campus.datacamp.com
-practice.datacamp.com
-projects.datacamp.com
-datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 demorgen.be
