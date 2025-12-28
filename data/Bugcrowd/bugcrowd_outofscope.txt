@@ -119,16 +119,6 @@ manage.probiller.com
 *.probiller.com
 trafficjunky.com
 adultforce.com
-jobs.coinmarketcap.com
-support.binance
-binance.sg
-*.trustwallet.com
-*.trustwalletapp.com
-*.binance.org
-blog.coinmarketcap.com
-support.coinmarketcap.com
-blockchain.coinmarketcap.com
-*.coinmarketcap.com
 businessinsights.bitdefender.com
 businessemail.bitdefender.com
 businessresources.bitdefender.com
@@ -213,6 +203,8 @@ meraki.cisco.com
 documentation.meraki.com
 wien.gv.at
 learn.clickhouse.com
+support.cloudinary.com
+wiki.cloudinary.com
 eqrs.cms.gov
 portal.cms.gov
 healthcare.gov
