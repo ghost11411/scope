@@ -1,2 +1,3 @@
-access.ripe.net
-lirportal.ripe.net
+myaccount.ad.nl
+webwinkel.ad.nl
+ad.nl

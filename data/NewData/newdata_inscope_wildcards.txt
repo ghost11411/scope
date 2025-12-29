@@ -1,1 +1,1 @@
-*.ripe.net
+*.ad.nl
