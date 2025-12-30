@@ -1,7 +1,7 @@
-nutaku.com
-nutaku.net
-xnxx.nutaku.net
-xvideos.nutaku.net
-osapi.nutaku.com
-mobileapi.nutaku.com
-gateway-api.nutaku.net
+id.unity.com
+api.unity.com
+cloud.unity.com
+store.unity.com
+pay.unity.com
+player-login.unity.com
+unity3d.com
