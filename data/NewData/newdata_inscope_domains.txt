@@ -1,2 +1,2 @@
-chainabuse-staging.com
-api.chainabuse-staging.com
+aikidosecurity.aikido
+app.aikido.dev
