@@ -1,2 +1,3 @@
-*.dell.com
-*.delltechnologies.com
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
