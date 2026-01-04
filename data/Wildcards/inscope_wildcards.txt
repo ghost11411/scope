@@ -202,7 +202,6 @@ np.*.lfscnp.com
 *.nu.com.mx
 *.nu.com.co
 *.nuinvest.com.br
-*.octopus.com
 *.openai.org
 *.openai.com
 *.opera.software
@@ -1038,6 +1037,16 @@ cf.*.aws.indriverapp
 *.hln.be
 *.parool.nl
 *.humo.be
+*.gamma.be
+*.gamma.nl
+*.intergamma.cloud
+*.intergamma.nl
+*.karwei.nl
+*.restintergamma.nl
+*.intergamma-test.nl
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.klubcinema.fr
 *.megatix.be
 *.kinepolis.be
