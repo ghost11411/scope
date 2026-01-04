@@ -275,7 +275,6 @@ np.*.lfscnp.com
 *.services.repostnetwork.com
 *.square.com
 *.squareup.com
-*.statuspage.io
 *.api.t-mobile.com
 *.metrobyt-mobile.com
 *.t-mobile.com
@@ -1955,7 +1954,6 @@ soundcloud.org
 squareup.com
 square.online
 weebly.com
-manage.statuspage.io
 account.t-mobile.com
 metrobyt-mobile.com
 sprint.com

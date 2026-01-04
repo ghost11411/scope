@@ -777,7 +777,6 @@ soundcloud.org
 squareup.com
 square.online
 weebly.com
-manage.statuspage.io
 account.t-mobile.com
 metrobyt-mobile.com
 sprint.com
