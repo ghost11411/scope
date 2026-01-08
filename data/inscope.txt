@@ -336,6 +336,7 @@ sip.*.twilio.com
 *.robinhood.net
 *.say.rocks
 *.saytechnologies.com
+*.platacard.mx
 *.konghq.com
 *.api.konghq.com
 *.edge.gateways.konghq.com
@@ -2354,6 +2355,7 @@ status.bitstamp.net
 url6884.team.bitstamp.net
 bitstamp.net
 tradepmr.com
+dif.tech.plata
 lb1.iris.cgophobb.com
 bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com
 bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com
@@ -4997,6 +4999,13 @@ cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+auth.api.soundtrackyourbrand.com
+radio.api.soundtrackyourbrand.com
+soundtrackyourbrand.com
 tempo-team.be
 tempo-team.com
 tempo-team.nl
