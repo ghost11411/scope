@@ -353,6 +353,9 @@ sip.*.twilio.com
 *.varonis.com
 *.varonis.io
 *.varonis.net
+*.acesso.io
+*.cadastro.uat.unico.app
+*.unico.io
 *.nflxext.com
 *.nflximg.net
 *.nflxso.net
@@ -2586,6 +2589,13 @@ klarnacdn.net
 portal.openbanking.playground.klarna.com
 pricerunner.com
 xs2a.banking.playground.klarna.com
+devcenter.unico.io
+api.id.unico.app
+backend-sdk.prod.private.unico.run
+identity.acesso.io
+idpay.unico.io
+transactions.transactional.unico.app
+.acesso.io
 pay.wallet.tg
 wallet.tg
 walletbot.me
@@ -4291,10 +4301,6 @@ auth.skypicker.com
 jobs.kiwi.com
 tequila.kiwi.com
 try.discourse.org
-nft.io
-canary.nft.io
-platform.enjin.io
-platform.canary.enjin.io
 cdn.plaid.com
 dashboard.plaid.com
 demo.plaid.com
