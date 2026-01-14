@@ -1460,9 +1460,6 @@ support.8x8.com
 vm.8x8.com
 8x8.com
 wavecell.com
-eflow.watsons.com.tw
-form.watsons.com.my
-watsons.com.my
 travel.aig.co.jp
 1008.aig.com
 corebridgefinancial.com
@@ -2590,6 +2587,8 @@ idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 nexuzhealth.atlassian.net
 pro.nexuzhealth.hn
+store.ninjakiwi.com
+support.ninjakiwi.com
 pol-dev.ovotech.org.uk
 prod.tardis.ovotech.org.uk
 pol.ovotech.org.uk
