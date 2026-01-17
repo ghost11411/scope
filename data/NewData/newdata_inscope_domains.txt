@@ -1,11 +1,3 @@
-mcp.atlassian.com
-api.thousandeyes.com
-app.thousandeyes.com
-thousandeyes.com
-blog.unico.io
-idcash-uat.unico.io
-idpay-uat.unico.io
-issuer.idpay-uat.unico.io
-openfinance.unico.io
-secure.unico.io
-unico.io
+casino.partycasino.com
+casino.bwin.com
+casino.sportingbet.com
