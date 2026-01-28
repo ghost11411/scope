@@ -1,6 +1,7 @@
 marketplace.visualstudio.com
 aikidosecurity.aikido
 app.aikido.dev
+github.com
 myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
@@ -122,7 +123,6 @@ amd.digitalocean.com
 marketplace.digitalocean.com
 digitalocean.com
 *.snapshooter.com
-github.com
 digitaloceanmirrors.com
 digitaloceanpartners.com
 digitaloceanstatus.com
@@ -418,6 +418,19 @@ whynot.com
 tempo-team.be
 tempo-team.com
 tempo-team.nl
+*.toasttab.com
+*.xtrachef.com
+*.getsling.com
+*.delphidisplay.com
+*.toasttakeout.com
+*.phrasingpro3.com
+*.rallyforrestaurants.com
+*.estratex.com
+*.toast.org
+*.rallyforrestaurants.org
+*.rallyforrestaurant.com
+*.ibizdna.com
+*.rallyforestaurants.com
 cas.tomorrowland.com
 *.weareone.world
 belgium.tomorrowland.com
