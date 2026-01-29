@@ -1,13 +1,3 @@
-*.toasttab.com
-*.xtrachef.com
-*.getsling.com
-*.delphidisplay.com
-*.toasttakeout.com
-*.phrasingpro3.com
-*.rallyforrestaurants.com
-*.estratex.com
-*.toast.org
-*.rallyforrestaurants.org
-*.rallyforrestaurant.com
-*.ibizdna.com
-*.rallyforestaurants.com
+*.intercomassets.com
+*.intercomcdn.com
+*.mobile-messenger.intercom.com
