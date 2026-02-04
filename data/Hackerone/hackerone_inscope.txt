@@ -365,7 +365,6 @@ app.uma.money
 api.lightspark.com
 app.lightspark.com
 link.uma.me
-lrc20.lightspark.com
 *.bybit.com
 *.bybit.eu
 *.bybit.tr
@@ -1786,7 +1785,6 @@ public.hyatt.com
 res.blueskytours.globalbookingsolutions.com
 res.funjet.com
 res.hyattinclusivecollection.com
-res.nowresorts.com
 res.secretsresorts.com
 res.skyteam.com
 res.southwestvacations.com
