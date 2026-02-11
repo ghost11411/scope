@@ -1102,6 +1102,13 @@ bitstamp.net
 tradepmr.com
 dif.tech.plata
 lb1.iris.cgophobb.com
+admin.meeshosupply.com
+affiliate.meesho.com
+prod.meeshoapi.com
+superstoreapp.meesho.com
+supplier.meesho.com
+meesho.com
+valmo.in
 bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com
 bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com
 bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com
@@ -2265,7 +2272,6 @@ carrentals.com
 cheaptickets.com
 ebookers.com
 ebookers.fi
-expedia-aarp.com
 expedia.com
 expedia.co.in
 expedia.co.uk
