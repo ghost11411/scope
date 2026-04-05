@@ -1037,9 +1037,6 @@ ic3.*.indriverapp.com
 *.wissen-sie-mehr.de
 *.bmc.nl
 *.ticketing.cm.com
-*.backend-capital.com
-*.capital.com
-*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
@@ -1718,6 +1715,17 @@ staging.luno.com
 staging.luno.com.ng
 api.staging.luno.com
 app.staging.luno.com
+crateandbarrel.me
+api-prod.thatconceptstore.com
+thatconceptstore.com
+cb2.ae
+allsaints.me
+lululemon.me
+lapi.yellowblocks.me
+shiseido.me
+lego.me
+psychobunny.me
+fashion4less.me
 dashboard.magic.link
 auth.magic.link
 api.magic.link
@@ -4651,9 +4659,6 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
-payment.backend-capital.com
-capital.com
-open-api.capital.com
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
