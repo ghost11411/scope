@@ -1,3 +1,8 @@
-*exoscale.com
-*.exo.io
-*.internal.exoscale.ch
+*.datacamp.com
+*.das.eu
+*.dns.eu
+*.eurid.eu
+*.nic.eu
+*.registry.eu
+*.whois.eu
+*.yadifa.eu
