@@ -80,6 +80,7 @@ casino.*.betmgm.com
 *.flourish.studio
 *.xyzbmojn.net
 *.kiln.it
+*.staging.gearset.com
 *.central.arubanetworks.com
 *.cultbeauty.co.uk
 *.lookfantastic.com
@@ -1090,6 +1091,16 @@ ic3.*.indriverapp.com
 *.iciparisxl.nl
 *.iciparisxl.be
 *.pourvous.nl
+*.gamma.nl
+*.gamma.be
+*.karwei.nl
+*.intergamma.cloud
+*.intergamma.nl
+*.restintergamma.nl
+*.intergamma-test.nl
+*.werkenbijgamma.nl
+*.werkenbijgamma.be
+*.werkenbijkarwei.nl
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be
@@ -1112,6 +1123,8 @@ ic3.*.indriverapp.com
 *.mobilevikings.be
 *.prd-pub.mobilevikings.be
 *.prd.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
