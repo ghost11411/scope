@@ -1,13 +1,4 @@
-*.staging.gearset.com
-*.gamma.nl
-*.gamma.be
-*.karwei.nl
-*.intergamma.cloud
-*.intergamma.nl
-*.restintergamma.nl
-*.intergamma-test.nl
-*.werkenbijgamma.nl
-*.werkenbijgamma.be
-*.werkenbijkarwei.nl
-*.monzo.com
-*.prod-ffs.io
+*.optimuscards.com
+*.topperpay.com
+*.uphodl.com
+*.uphold.com
