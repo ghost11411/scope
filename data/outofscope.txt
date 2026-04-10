@@ -514,10 +514,6 @@ online.*.skybingo.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
-*.allegro.cz
-*.allegro.pl
-*.allegro.sk
-*.allegrogroup.com
 *.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
@@ -3353,8 +3349,6 @@ webbshop.atg.se
 explore.alasco.com
 explore.alasco.de
 alasco.de
-gitlab.isc.org
-lists.isc.org
 blog.bitoasis.net
 dev.blablacar.com
 sncf-connect-tech.fr
