@@ -1,6 +1,7 @@
 *.aiven.fi
 *.avns.net
 *.arlo.com
+*.integrations.asana.plus
 *.bitbucket.io
 *.trustwallet.com
 *.trustwalletapp.com
@@ -535,6 +536,7 @@ g.*.slackhq.com
 *.k8s.ondigitalocean.com
 *.ondigitalocean.app
 *.doserverless-dev3.io
+*.yadifa.eu
 *.grafana.com
 *.grafana.net
 *.swop.com
@@ -620,6 +622,9 @@ community.arlo.com
 investor.arlo.com
 research.arlo.com
 survey.arlo.com
+asana.com
+asana.okta.com
+assets.asana.biz
 bugcrowd.com
 shop.atlassian.com
 bytebucket.org
@@ -3416,9 +3421,6 @@ techops.dana.id
 dm.dana.id
 encrypt.dana.id
 agora.beta.gouv.fr
-doc.demarches-simplifiees.fr
-beta.gouv.fr
-demarches-simplifiees.fr
 datadome.co
 app.datadome.co
 cdn.vlaanderen.be
