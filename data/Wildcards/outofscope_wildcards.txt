@@ -533,6 +533,10 @@ online.*.skybingo.com
 g.*.slackhq.com
 *.rubyonrails.org
 *.aikido.dev
+*.allegro.cz
+*.allegro.pl
+*.allegro.sk
+*.allegrogroup.com
 *.axelspringer.com
 *.info.buhlergroup.com
 *.learnhub.buhlergroup.com
@@ -600,6 +604,9 @@ g.*.slackhq.com
 *.ondailymotion.com
 *.vlaanderen.be
 *.omgeving.vlaanderen.be
+*.doctolib.fr
+*.sslip.io
+*.nip.io
 *.louisvuitton.com
 *.osp.ovh.com
 *dev.swapcard.com
