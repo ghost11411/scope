@@ -111,6 +111,8 @@ accounts.britishairways.com
 holiday.britishairways.com
 regionstest.com
 *.tucows.com
+bancoplata.mx
+platacard.mx
 *.meesho.com
 *.meeshoaiservices.ai
 *.meeshoapi.com
