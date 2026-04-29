@@ -1163,8 +1163,6 @@ ic3.*.indriverapp.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.voi.com
-*.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
 *.nitropack.io
@@ -1263,7 +1261,6 @@ ic3.*.indriverapp.com
 *.roon.app
 *.gotdrops.com
 *.gotdrops.cloud
-*.harman.com
 *.easy4ipcloud.com
 *.api.louisvuitton.com
 *.soyoustart.com
