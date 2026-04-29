@@ -1,13 +1,3 @@
-admin-portal.api-xperience.com
-askpeopleteam.visa.com
-codeofconduct.visa.com
-developers.pismo.io
-dwy.visa.com
-solutions.visaacceptance.com
-myvu.visauniversity.com
-sap.api-xperience.com
-testbank.xs2a.com
-vasdemos.visa.com
-visainnovationprogram.com
-visaonchainanalytics.com
-visasgic.api-xperience.com
+consensus2026.sandbox.events.coindesk.com
+iqoption.com
+quadcode.com
