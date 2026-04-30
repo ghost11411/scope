@@ -982,6 +982,7 @@ docs.google.com
 npmjs.com
 permissionless.snaps.metamask.io
 portfolio.metamask.io
+app.metamask.io
 travel.metamask.io
 entravel.com
 connector.callsign.com
@@ -2649,6 +2650,15 @@ pn.innogames.com
 slack.innogames.de
 typingmind.innogames.de
 trismegistos.org
+dev.kinepolis.com
+helpdesk.landmarkcinemas.com
+jobs.kinepolis.com
+l.kinepolis.com
+openx.kinepolis.com
+shop.kinepolis.be
+shop.kinepolis.es
+shop.kinepolis.fr
+shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
