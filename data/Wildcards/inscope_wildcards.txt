@@ -1159,6 +1159,9 @@ ic3.*.indriverapp.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.itprojects.talent-community.com
 *.tweakblogs.net
 *.tweakers.net
@@ -1181,8 +1184,6 @@ ic3.*.indriverapp.com
 *careers.vinted.com
 *news.vinted.com
 *company.vinted.com
-*.voi.com
-*.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
 *.nitropack.io
