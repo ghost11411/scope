@@ -3663,6 +3663,16 @@ digitaloceantest.com
 do.co
 hackathon-tracker.digitalocean.com
 hacktoberfest.com
+dropbox.com
+sign.dropbox.com
+hellosign.com
+dash.ai
+dash.dropbox.com
+api.dropbox.com
+hellofax.com
+docsend.com
+app.reclaim.ai
+replay.dropbox.com
 my.eurid.eu
 itscope.com
 itscope.de
@@ -3675,6 +3685,8 @@ exact.com
 portal.exoscale.com
 exoscale.com
 community.exoscale.com
+service.fing.com
+app.fing.com
 jaguar.here.com
 landrover.here.com
 hln.be
