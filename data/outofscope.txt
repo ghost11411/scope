@@ -537,6 +537,9 @@ g.*.slackhq.com
 *.virtualworld-portal.buhlergroup.com
 *.virtualworld.buhlergroup.com
 *.webinars.buhlergroup.com
+*affiliates.backend-capital.com
+*eduapp.backend-capital.com
+*education.backend-capital.com
 *.static.edpnet.net
 *.dyn.edpnet.net
 *.citymesh.recruitee.com
@@ -581,10 +584,6 @@ g.*.slackhq.com
 *.ccnag.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
-*.homerr.com
-*vintedpay.com
-*.vinted.ca
-*.people.vinted
 *.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.net
@@ -3197,6 +3196,10 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+help.capital.com
+relocate-with-us.capital.com
+3cxby.itcapital.io
+texis.itcapital.io
 digicampus.digimobil.es
 visitors.dpgmedia.be
 app.datacamp.com
@@ -3335,8 +3338,6 @@ innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
 customerservice.vtm.be
-api.prod.svc.vintedpay.com
-callbacks.prod.svc.vintedpay.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com
