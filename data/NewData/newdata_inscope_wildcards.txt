@@ -1,2 +1,6 @@
-*.kwsdose.be
-*.playuzleuven.be
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
