@@ -3,10 +3,6 @@
 *.arlo.com
 *.integrations.asana.plus
 *.bitbucket.io
-*.trustwallet.com
-*.trustwalletapp.com
-*.binance.org
-*.coinmarketcap.com
 *.bitgo.com
 *.exchange.bitpanda.com
 *.otc.bitso.com
@@ -234,11 +230,6 @@ db.*.supabase.co
 *.stg.travix.com
 *.tellocast.com
 *.gobrightspeed.net
-*.thebodyshop.com.bh
-*.thebodyshop.com.kw
-*.thebodyshop.com.tr
-*.thebodyshop.pl
-*.thebodyshop.qa
 *.truist.com
 *.sixidmobile.com
 *.stripchat.com
