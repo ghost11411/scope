@@ -1,5 +1,5 @@
-*.seek.com
-*.employer.seek.com
-*.jobsdb.com
-*.jobstreet.com
-*.myseek.xyz
+*.binance.com
+*.binance.us
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io

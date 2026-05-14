@@ -17,6 +17,8 @@ portalapi.*.afterpay.com
 *.cic-bug-bounty.auth0app.com
 *.backblazeb2.com
 *.backblaze.com
+*.binance.com
+*.binance.us
 *.bitdefender.net
 *.bitdefender.com
 *.bitgo.com
@@ -267,12 +269,6 @@ np.*.lfscnp.com
 *.uscc.com
 *.uscellular.com
 *.assurancewireless.com
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
 *.tools.thefork.tech
 *.prod.uidapi.com
 *.thetradedesk.com
@@ -549,7 +545,6 @@ ic3.*.indriverapp.com
 *-s.a.exodus.io
 *.exodus.com
 *.exodus.io
-*.grateful.me
 *.k8s.io
 *.gocardless-cicd.io
 *.gocardless.com
@@ -1144,6 +1139,9 @@ ic3.*.indriverapp.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.itprojects.talent-community.com
 *.tweakblogs.net
 *.tweakers.net
