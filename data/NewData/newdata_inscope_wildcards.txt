@@ -1,5 +1,2 @@
-*.binance.com
-*.binance.us
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
+*.kwsdose.be
+*.playuzleuven.be
