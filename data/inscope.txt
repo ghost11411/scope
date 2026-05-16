@@ -1701,8 +1701,6 @@ umiloans.com.au
 images.latitudepayapps.com
 app.latitudepayapps.com
 legacy-blockexplorer.electroneum.com
-manager.trial.lsk.lightspeed.app
-hq.breadcrumb.com
 secure.vendhq.com
 developers.vendhq.com
 payment-connectors.vendhq.com
@@ -3434,7 +3432,6 @@ contacts.8x8.com
 converse.8x8.com
 8x8.vc
 webrtc.8x8.com
-org.vom8x8.sipua
 pay.8x8.com
 platform.8x8.com
 platform.8x8pilot.com
