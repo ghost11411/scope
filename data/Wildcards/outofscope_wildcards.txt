@@ -556,16 +556,11 @@ g.*.slackhq.com
 *.doserverless-dev3.io
 *.yadifa.eu
 *.swop.com
-*.configuratoren.nl
 *.cineramabios.nl
 *.lxc.liferay.com
 *.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
-*.pdq.com
-*.pdq.tools
-*.simplemdm.com
-*.smartdeploy.com
 *.brightplus.be
 *.career.be
 *.entrili.com
