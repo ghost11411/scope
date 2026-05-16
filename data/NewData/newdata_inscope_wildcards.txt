@@ -1,1 +1,2 @@
-*.datacamp.com
+*.gov.bugcrowd.net
+*.bugcrowd.com
