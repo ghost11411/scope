@@ -1,5 +1,2 @@
-compete.playstation.com
-profile.playstation.com
-session-share.playstation.com
-web.np.playstation.com
-playstation.com
+manager.trial.lsk.lightspeed.app
+hq.breadcrumb.com
