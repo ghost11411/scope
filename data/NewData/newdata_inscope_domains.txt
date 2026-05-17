@@ -1,7 +1,10 @@
-docs.bugcrowd.com
-bugcrowd.com
-tracker.bugcrowd.com
-api.bugcrowd.com
-gov.bugcrowd.net
-identity.bugcrowd.com
-legacy-blockexplorer.electroneum.com
+developers.intercom.com
+api.intercom.com
+api.intercom.io
+app.intercom.com
+app.intercom.io
+intercom.com
+mcp.intercom.com
+api-iam.intercom.io
+fin.ai
+app.fin.ai
