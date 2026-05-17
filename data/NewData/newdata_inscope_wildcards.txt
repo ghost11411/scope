@@ -1,3 +1,2 @@
-*.binance.com
-*.binance.us
-*.tools.thefork.tech
+*.cash.app
+*.cashstaging.app
