@@ -143,9 +143,6 @@ api.canva.com
 itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com
-cash.app
-*.cash.app
-*.cashstaging.app
 cfr.org
 thinkglobalhealth.org
 education.cfr.org
@@ -799,6 +796,11 @@ openai.org
 openai.com
 *.openai.com
 platform.openai.com
+opensea.io
+wallet.opensea.io
+io.opensea
+mcp.opensea.io
+etherscan.io
 auth.opera.com
 accounts.opera.com
 flow.opera.com
