@@ -1,7 +1,10 @@
-wise-sandbox.com
-api.voiapp.io
-fm.voiapp.io
-mds.voiapp.io
-repair.voiweb.net
-report.voi.com
-voi.com
+dealflow.prosus.com
+dealflowapi.prosus.com
+analytics-admin.prosus.com
+analytics.prosus.com
+data.prosus.com
+hr.prosus.com
+tracker.naspers.com
+cfc.naspers.com
+peopleview.naspers.com
+nav.naspers.com
