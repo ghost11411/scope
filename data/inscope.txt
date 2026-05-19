@@ -305,6 +305,7 @@ np.*.lfscnp.com
 *.volkswagen.de
 *.transferwise.com
 *.wise.com
+*.wise-sandbox.com
 *signalservice.comcast.net
 *.dh-commerce.com
 *.ssr.ccp.xcal.tv
@@ -5896,5 +5897,7 @@ svn.notebleue.pro
 todo.notebleue.pro
 webtoolbox.notebleue.pro
 cam.notebleue.pro
+toom.de
+api.toom.de
 co.uk.com
 parcelhubeurope.com
