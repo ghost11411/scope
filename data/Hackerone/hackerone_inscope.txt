@@ -1153,6 +1153,7 @@ support.link.com
 metronome.com
 metronone.com
 docs.metronome.com
+apollo.io
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
@@ -2780,12 +2781,10 @@ gamma.grab.co
 gifts.grab.com
 grab.careers
 hungrygowhere.com
-jira.grab.com
 kartaview.org
 manage.grab.co
 ovo.id
 p.grabtaxi.com
-wiki.grab.com
 xtramile.grabpay.com
 authentication.clearme.com
 clearme.atlassian.net
