@@ -1023,9 +1023,6 @@ ic3.*.indriverapp.com
 *.wissen-sie-mehr.de
 *.bmc.nl
 *.ticketing.cm.com
-*.backend-capital.com
-*.capital.com
-*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
@@ -1075,6 +1072,16 @@ ic3.*.indriverapp.com
 *.iciparisxl.nl
 *.iciparisxl.be
 *.pourvous.nl
+*.gamma.nl
+*.gamma.be
+*.karwei.nl
+*.intergamma.cloud
+*.intergamma.nl
+*.restintergamma.nl
+*.intergamma-test.nl
+*.werkenbijgamma.nl
+*.werkenbijgamma.be
+*.werkenbijkarwei.nl
 *.klubcinema.fr
 *.megatix.be
 *.kinepolis.be
