@@ -1988,6 +1988,10 @@ public.bitmex.com
 research.bitmex.com
 status.bitmex.com
 support.bitmex.com
+blog.thecoalition.com
+security.md
+help.thecoalition.com
+thecoalition.com
 community.elastic.co
 discuss.elastic.co
 learn.elastic.co
@@ -2647,6 +2651,10 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+help.capital.com
+relocate-with-us.capital.com
+3cxby.itcapital.io
+texis.itcapital.io
 digi-belgium.be
 api.digi-belgium.be
 digicampus.digimobil.es
