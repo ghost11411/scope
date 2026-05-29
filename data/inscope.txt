@@ -4147,7 +4147,6 @@ falcon-sandbox.com
 hybrid-analysis.com
 onum-labs.com
 onum.com
-pangea.cloud
 play.google.com
 seraphicsecurity.com
 crowdstrike.com
@@ -5166,11 +5165,6 @@ mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
-a.simplemdm.com
-auth2.pdq.com
-library.pdq.com
-portal.pdq.com
-app.pdq.com
 hstconboarding.peoplecert.org
 atv.peoplecert.org
 selt.languagecert.org
