@@ -1603,8 +1603,6 @@ learning.logistics.amazon.com
 cs.money
 grafana.cs.money
 old.cs.money
-or.id
-web.id
 fulfillment-platform.shutterfly.com
 clientaccess.citrixcloud.navient.com
 filegateway.navient.com
