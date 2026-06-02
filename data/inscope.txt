@@ -1024,9 +1024,6 @@ ic3.*.indriverapp.com
 *.wissen-sie-mehr.de
 *.bmc.nl
 *.ticketing.cm.com
-*.backend-capital.com
-*.capital.com
-*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
@@ -1152,6 +1149,16 @@ ic3.*.indriverapp.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.vinted.net
+*.vinted.com
+*.vinted.fr
+*.vintedgo.com
+*old.vinted.com
+*test-escalations.vintedgo.com
+*badger.it.vinted.com
+*careers.vinted.com
+*news.vinted.com
+*company.vinted.com
 *.deliciousbrains.com
 *.localwp.com
 *.nitropack.io
@@ -4871,9 +4878,6 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
-payment.backend-capital.com
-capital.com
-open-api.capital.com
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
