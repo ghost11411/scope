@@ -2398,6 +2398,7 @@ try.nextcloud.com
 apply.starbucks.com
 athome.starbucks.com
 careers.starbucks.com
+istarbucks.co.kr
 lsstar.starbucks.com
 anomotion.com
 any-invalid-domains.rockstargames.com
@@ -2706,6 +2707,10 @@ gitlab.buhler-datascience.ch
 imap.buhlergroup.cn
 pop.buhlergroup.cn
 smtp.buhlergroup.cn
+help.capital.com
+relocate-with-us.capital.com
+3cxby.itcapital.io
+texis.itcapital.io
 digi-belgium.be
 api.digi-belgium.be
 digicampus.digimobil.es
