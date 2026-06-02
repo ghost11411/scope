@@ -5,6 +5,9 @@ myaccount.ad.nl
 webwinkel.ad.nl
 ad.nl
 *.ad.nl
+*.allegro.cz.allegrosandbox.pl
+*.allegro.pl.allegrosandbox.pl
+*.allegro.sk.allegrosandbox.pl
 politico.eu
 adtechnology.axelspringer.com
 *.asadcdn.com
@@ -159,6 +162,8 @@ portal.exoscale.com
 *.internal.exoscale.ch
 exoscale.com
 community.exoscale.com
+service.fing.com
+app.fing.com
 *.account.api.here.com
 *.account.here.com
 *.mobilitygraph.hereapi.com
@@ -395,6 +400,10 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
+*.monzo.com
+*.prod-ffs.io
+co.uk.getmondo
+monzo.com
 nvidia.com
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws

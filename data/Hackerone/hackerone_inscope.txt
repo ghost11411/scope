@@ -1155,6 +1155,7 @@ metronome.com
 metronone.com
 docs.metronome.com
 apollo.io
+signup.metronome.com
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
@@ -2175,6 +2176,7 @@ ort-desktop.pingone.com
 *.paddypower.com
 *.paddypower.it
 *.platformservices.io
+*.ppb.com
 *.ppbdev.com
 *.sbgcdn.com
 *.sbgcore.com
