@@ -1037,7 +1037,6 @@ ic3.*.indriverapp.com
 *.travelbook.de
 *.wissen-sie-mehr.de
 *.bmc.nl
-*.ticketing.cm.com
 *.backend-capital.com
 *.capital.com
 *.itcapital.io
@@ -1145,9 +1144,6 @@ ic3.*.indriverapp.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
 *.itprojects.talent-community.com
 *.tweakblogs.net
 *.tweakers.net
