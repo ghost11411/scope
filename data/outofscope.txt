@@ -616,6 +616,9 @@ g.*.slackhq.com
 *.unique.be
 *.uniqueselect.be
 *.usgprofessionals.be
+*.anchors.atlas.ripe.net
+*.probes.atlas.ripe.net
+*.ripe.net
 *.newyorkredbulls.com
 *.tempo-team.de
 *.ccnag.com
@@ -1645,6 +1648,8 @@ support.worldcoin.com
 crm.alshayamarketing.com
 thebodyshop.cz
 truist.com
+providerhub.six-group.com
+six-structured-products.com
 saferpay.com
 gnltn.com
 ldry.com
@@ -3451,6 +3456,8 @@ support.personio.de
 personio.com
 personio.es
 pen-app.entrili.com
+exams.ripe.net
+ripe.net
 apps.randstad.in
 cz.randstad.com
 workplace.randstad.in
