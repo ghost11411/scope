@@ -1037,6 +1037,7 @@ ic3.*.indriverapp.com
 *.travelbook.de
 *.wissen-sie-mehr.de
 *.bmc.nl
+*.ticketing.cm.com
 *.backend-capital.com
 *.capital.com
 *.itcapital.io

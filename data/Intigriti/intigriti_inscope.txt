@@ -55,6 +55,14 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 de.bmw.connected.mobile20.row
+login.cm.com
+*.ticketing.cm.com
+api.cm.com
+api.cmtelecom.com
+cm.com
+appmiral.com
+building-blocks.com
+cmcom.atlassian.net
 payment.backend-capital.com
 *.backend-capital.com
 capital.com
@@ -399,8 +407,6 @@ community.personio.com
 hug.personio.com
 personio.de
 personio.com
-iqoption.com
-quadcode.com
 app.qualified-dev.com
 qualified.com
 api.qualified.com
@@ -491,6 +497,12 @@ brasil-store.tomorrowland.com
 *.tomorrowland.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
+winkels.torfs.be
+schoenentorfs.be
+schoenentorfs.nl
+torfs.be
+torfs.nl
+samenfittorfs.be
 myaccount.trouw.nl
 shop.trouw.nl
 webwinkel.trouw.nl

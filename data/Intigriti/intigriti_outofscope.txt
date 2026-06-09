@@ -139,6 +139,7 @@ statuspage.personio.de
 support.personio.de
 personio.com
 personio.es
+*.cpa.iqoption.com
 *.brightplus.be
 *.career.be
 *.entrili.com
