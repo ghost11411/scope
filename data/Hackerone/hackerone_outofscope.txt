@@ -1,3 +1,7 @@
+*.bandcamp.com
+*.corp.bandcamp.com
+*.popjam.com
+*.rukkaz.com
 *.superawesome.com
 *.superawesome.tv
 gogo-cards.com
@@ -490,9 +494,11 @@ portal.frontegg.com
 smallbusiness.comerica.com
 smallbusinessuat.comerica.com
 bus.*.indrive.com
+coaching.supernovas.indrive.com
 servicos.indrive.com
 sinet.startup.indriver
 super-services.indriverapp.com
+supernovas.indrive.com
 engineering.rei.com
 rei.gladly.com
 reicasting.com
@@ -1727,11 +1733,8 @@ valvestore.forfansbyfans.com
 store.valvesoftware.com
 steamgames.com
 steampowered.com
-*.bandcamp.com
 *.bcbits.com
 *.jellychat.com
-*.popjam.com
-*.rukkaz.com
 *.superbeatsports.com
 fortniteclient-mac-shipping.app
 admin-dev.harmonixmusic.com
@@ -2094,6 +2097,9 @@ help.wealthsimple.com
 support.wealthsimple.com
 tldr-archive.wealthsimple.com
 work.wealthsimple.com
+*.home.bargains
+*.homebargains.co.uk
+*.tjmorris.co.uk
 *.ali.zomans.com
 *.bstro.io
 *.zomatoportugal.com

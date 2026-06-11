@@ -1052,9 +1052,11 @@ api.frontegg.com
 portal.frontegg.com
 smallbusiness.comerica.com
 smallbusinessuat.comerica.com
+coaching.supernovas.indrive.com
 servicos.indrive.com
 sinet.startup.indriver
 super-services.indriverapp.com
+supernovas.indrive.com
 engineering.rei.com
 rei.gladly.com
 reicasting.com
@@ -2821,6 +2823,8 @@ media.rivian.com
 stories.rivian.com
 view.e.rivian.com
 simscale.com
+careers.sqills.com
+welcome.sqills.com
 kvadrat.no
 viavika.no
 limonsoda.cl
