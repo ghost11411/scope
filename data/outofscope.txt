@@ -608,7 +608,6 @@ g.*.slackhq.com
 *.yadifa.eu
 *.swop.com
 *.lxc.liferay.com
-*.nexuzhealth.pro
 *.vectus.in
 *.cpa.iqoption.com
 *.brightplus.be
@@ -3449,10 +3448,6 @@ libelle.nl
 login.liferay.com
 docs.moralis.io
 status.moralis.io
-pro.nexuzhealth.hn
-nexuzhealth.atlassian.net
-media.nexuzhealth.be
-idp-contact.nexuzhealth.be
 store.ninjakiwi.com
 support.ninjakiwi.com
 personio.de
@@ -3461,15 +3456,6 @@ statuspage.personio.de
 support.personio.de
 personio.com
 personio.es
-future.portofantwerp.com
-future.portofantwerpbruges.com
-jobs.portofantwerp.com
-jobs.portofantwerpbruges.com
-media.portofantwerp.com
-media.portofantwerpbruges.com
-register.portofantwerp.com
-register.portofantwerpbruges.com
-oursustainableport.com
 pen-app.entrili.com
 exams.ripe.net
 ripe.net
