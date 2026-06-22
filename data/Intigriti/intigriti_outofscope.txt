@@ -119,9 +119,18 @@ libelle.nl
 login.liferay.com
 docs.moralis.io
 status.moralis.io
+pro.nexuzhealth.hn
+nexuzhealth.atlassian.net
+media.nexuzhealth.be
+idp-contact.nexuzhealth.be
+*.nexuzhealth.pro
 store.ninjakiwi.com
 support.ninjakiwi.com
 *.vectus.in
+*.pdq.com
+*.pdq.tools
+*.simplemdm.com
+*.smartdeploy.com
 personio.de
 personio.slack.com
 statuspage.personio.de
@@ -197,7 +206,6 @@ innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
 customerservice.vtm.be
-station.veriff.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com

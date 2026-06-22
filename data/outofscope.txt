@@ -200,6 +200,7 @@ argocd.*.uidapi.com
 *.rukkaz.com
 *.superawesome.com
 *.superawesome.tv
+*.cdssandbox.xyz
 *.cas.l3harris.com
 *.cts.l3harris.com
 *.ondato.net
@@ -608,7 +609,12 @@ g.*.slackhq.com
 *.yadifa.eu
 *.swop.com
 *.lxc.liferay.com
+*.nexuzhealth.pro
 *.vectus.in
+*.pdq.com
+*.pdq.tools
+*.simplemdm.com
+*.smartdeploy.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be
@@ -3444,6 +3450,10 @@ libelle.nl
 login.liferay.com
 docs.moralis.io
 status.moralis.io
+pro.nexuzhealth.hn
+nexuzhealth.atlassian.net
+media.nexuzhealth.be
+idp-contact.nexuzhealth.be
 store.ninjakiwi.com
 support.ninjakiwi.com
 personio.de
@@ -3499,7 +3509,6 @@ innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
 customerservice.vtm.be
-station.veriff.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com

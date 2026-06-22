@@ -20,6 +20,7 @@ legacy.gogoair.com
 gogo574.com
 gogocloud.net
 gogocommercialaviation.com
+*.cdssandbox.xyz
 ai-answers.alpha.canada.ca
 ai-answers.cdssandbox.xyz
 blawx.cdssandbox.xyz
