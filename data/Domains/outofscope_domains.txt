@@ -24,6 +24,9 @@ community.arlo.com
 investor.arlo.com
 research.arlo.com
 survey.arlo.com
+asana.com
+asana.okta.com
+assets.asana.biz
 bugcrowd.com
 shop.atlassian.com
 bytebucket.org
@@ -2636,6 +2639,7 @@ translate.gitlab.com
 us-federal-gitlab.com
 status.twitter.com
 status.io
+developers.cloudflare.com
 community.cloudflare.com
 events.cloudflare.com
 support.cloudflare.com
@@ -2772,6 +2776,15 @@ statuspage.personio.de
 support.personio.de
 personio.com
 personio.es
+future.portofantwerp.com
+future.portofantwerpbruges.com
+jobs.portofantwerp.com
+jobs.portofantwerpbruges.com
+media.portofantwerp.com
+media.portofantwerpbruges.com
+register.portofantwerp.com
+register.portofantwerpbruges.com
+oursustainableport.com
 pen-app.entrili.com
 exams.ripe.net
 ripe.net

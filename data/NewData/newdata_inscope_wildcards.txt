@@ -1,2 +1,4 @@
-*.monzo.com
-*.prod-ffs.io
+*.asana.plus
+*.app.asana.com
+*.asana.biz
+*asana.biz
