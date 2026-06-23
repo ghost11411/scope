@@ -3408,7 +3408,6 @@ shop-id.tokopedia.com
 shop.tiktok.com
 starling-ttp.lemon8-app.us
 tiktok.com
-tiktokdata-us-open.tiktokw.us
 pangleglobal.com
 soundon.global
 soundonw.us
@@ -3572,7 +3571,6 @@ internal-api-drive-stream.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api.larksuite.com
 lark-frontier.byteoversea.com
-larksuite.us
 open.larksuite.com
 passport.larksuite.com
 status.larksuite.com
@@ -4604,7 +4602,6 @@ firefly.adobe.com
 fonts.adobe.com
 federatedid-na1.services.adobe.com
 ims-na1.adobelogin.com
-contentcredentials.org
 learningmanagerstage4.adobe.com
 magento.com
 net.s2stagehance.com
