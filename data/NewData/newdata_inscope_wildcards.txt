@@ -1,4 +1,4 @@
-*.asana.plus
-*.app.asana.com
-*.asana.biz
-*asana.biz
+*.boredapeyachtclub.com
+*.otherside.xyz
+*.yuga.com
+*.yugalabs.io
