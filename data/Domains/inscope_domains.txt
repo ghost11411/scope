@@ -30,9 +30,6 @@ myapi.arlo.com
 arlo.com
 updates.arlo.com
 partnerapi.arlo.com
-app.asana.com
-asana.com
-form.asana.com
 admin.atlassian.com
 id.atlassian.com
 start.atlassian.com
@@ -3548,7 +3545,6 @@ cmcom.atlassian.net
 payment.backend-capital.com
 capital.com
 open-api.capital.com
-challenge-0626.intigriti.io
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
