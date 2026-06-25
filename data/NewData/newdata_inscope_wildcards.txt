@@ -1,1 +1,1 @@
-casino.*.betmgm.com
+*.datacamp.com
