@@ -1030,6 +1030,9 @@ ic3.*.indriverapp.com
 *.travelbook.de
 *.wissen-sie-mehr.de
 *.ticketing.cm.com
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
@@ -3879,7 +3882,6 @@ efast.marriott.com
 eidhelp.marriott.com
 esupplier.marriott.com
 gifts.marriott.com
-globaldesign.marriott.com
 help.marriott.com
 homes-and-villas.marriott.com
 hotel-deals.marriott.com
@@ -4808,6 +4810,9 @@ cm.com
 appmiral.com
 building-blocks.com
 cmcom.atlassian.net
+payment.backend-capital.com
+capital.com
+open-api.capital.com
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
