@@ -2396,6 +2396,7 @@ gateway.superhuman.com
 id.superhuman.com
 io.coda
 io.coda.codaapp
+mail.superhuman.com
 settings.superhuman.com
 api.geneva-staging.com
 app.geneva-staging.chat
