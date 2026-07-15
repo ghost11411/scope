@@ -3435,7 +3435,6 @@ api.cloudflare.com
 cloudflareworkers.com
 dash.cloudflare.com
 one.dash.cloudflare.com
-waf.cumulusfire.net
 crowdsignal.com
 jetpack.com
 texts.com

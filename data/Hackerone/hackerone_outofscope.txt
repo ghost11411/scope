@@ -2402,6 +2402,7 @@ react-examples.realtime.cloudflare.com
 support.cloudflare.com
 support.cloudflarewarp.com
 test.realtime.cloudflare.com
+waf.cumulusfire.net
 *.crowdsignal.net
 *.poll.fm
 *.survey.fm

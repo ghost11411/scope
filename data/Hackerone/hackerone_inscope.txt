@@ -3042,7 +3042,6 @@ api.cloudflare.com
 cloudflareworkers.com
 dash.cloudflare.com
 one.dash.cloudflare.com
-waf.cumulusfire.net
 *.srvcs.tumblr.com
 *.tumblr.com
 crowdsignal.com

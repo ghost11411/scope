@@ -2697,6 +2697,7 @@ react-examples.realtime.cloudflare.com
 support.cloudflare.com
 support.cloudflarewarp.com
 test.realtime.cloudflare.com
+waf.cumulusfire.net
 afterthedeadline.com
 atavist.com
 happy.tools
