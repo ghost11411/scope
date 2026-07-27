@@ -124,6 +124,8 @@ shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
+careers.lansweeper.com
+lansweeper.com
 libelle.nl
 *.lxc.liferay.com
 login.liferay.com
@@ -138,6 +140,8 @@ nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
 *.nexuzhealth.pro
+rancher.ninjakiwi.com
+rancher.ninjakiwi.me
 store.ninjakiwi.com
 support.ninjakiwi.com
 *.vectus.in
@@ -246,6 +250,7 @@ repository.vlerick.com
 spoc.myshopify.com
 vlerick.myshopify.com
 webform.vlerick.com
+marketing.nitropack.io
 getflywheel.com
 wpengine.com
 aquawardsspatial.water-link.be

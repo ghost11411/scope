@@ -1,7 +1,6 @@
-*.wolt.com
-*.backend-capital.com
-*.capital.com
-*.itcapital.io
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net
