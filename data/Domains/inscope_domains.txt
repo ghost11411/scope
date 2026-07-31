@@ -461,10 +461,6 @@ lazzx4o5mh.execute-api.eu-west-1.amazonaws.com
 premogiftcards.com
 identity.majidalfuttaim.com
 identity.majidalfutaaim.com
-malloftheemirates.com
-api.mafshoppingmalls.com
-partnerconnect.maf.ae
-ecoupon.maf.ae
 mastercard.us
 mastercard.ch
 mastercard.com.au
