@@ -2952,6 +2952,15 @@ dm.dana.id
 encrypt.dana.id
 datadome.co
 app.datadome.co
+developers.deezer.com
+partners.deezer.com
+cdn-files.deezer.com
+cdn-content.deezer.com
+support.deezer.com
+deezercommunity.com
+deezer-blog.com
+deezer-brandsolutions.com
+deezerjobs.com
 cdn.vlaanderen.be
 codex.opendata.api.vlaanderen.be
 vlaanderen.be
