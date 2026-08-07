@@ -2404,6 +2404,7 @@ scrollkit.com
 try.pressable.com
 my.pressable.com
 pressable.com
+status.*.coinbase.com
 status.coinbase.com
 *.concrete5.org
 concrete5.org
