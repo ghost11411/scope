@@ -1,2 +1,4 @@
-*.ticketing.cm.com
-*.app.spacelift.dev
+*.monzo.com
+*.prod-ffs.io
+*.sqills.com
+*.sqills.team
