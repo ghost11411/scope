@@ -1152,6 +1152,8 @@ ic3.*.indriverapp.com
 *.vintia.cloud
 *.vintia.com
 *.wecosystem.com
+*.sqills.com
+*.sqills.team
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com

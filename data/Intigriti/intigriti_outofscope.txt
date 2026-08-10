@@ -139,6 +139,7 @@ media.portofantwerpbruges.com
 register.portofantwerp.com
 register.portofantwerpbruges.com
 oursustainableport.com
+developer.posti.com
 posti.fi
 *.cpa.iqoption.com
 *.brightplus.be
@@ -170,6 +171,11 @@ media.rivian.com
 stories.rivian.com
 view.e.rivian.com
 simscale.com
+*.red.sqills.team
+booking.*.cloud.sqills
+booking.*.sqills.com
+careers.sqills.com
+welcome.sqills.com
 kvadrat.no
 viavika.no
 limonsoda.cl

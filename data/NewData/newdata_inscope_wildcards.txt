@@ -1,1 +1,2 @@
-*.base.app
+*.sqills.com
+*.sqills.team
