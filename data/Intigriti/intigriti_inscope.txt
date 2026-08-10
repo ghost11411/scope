@@ -54,6 +54,14 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 de.bmw.connected.mobile20.row
+login.cm.com
+*.ticketing.cm.com
+api.cm.com
+api.cmtelecom.com
+cm.com
+appmiral.com
+building-blocks.com
+cmcom.atlassian.net
 payment.backend-capital.com
 *.backend-capital.com
 capital.com
@@ -542,8 +550,9 @@ builds.soundtrackyourbrand.com
 business.soundtrackyourbrand.com
 auth.api.soundtrackyourbrand.com
 radio.api.soundtrackyourbrand.com
-*.sqills.com
-*.sqills.team
+*.app.spacelift.dev
+app.spacelift.dev
+spacelift.dev
 superdrug.com
 api.superdrug.com
 media.superdrug.com

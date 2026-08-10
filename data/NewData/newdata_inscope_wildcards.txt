@@ -1,2 +1,2 @@
-*.sqills.com
-*.sqills.team
+*.ticketing.cm.com
+*.app.spacelift.dev
