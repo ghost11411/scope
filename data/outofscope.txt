@@ -624,9 +624,6 @@ g.*.slackhq.com
 *.ripe.net
 *ripe.net
 *.newyorkredbulls.com
-*.red.sqills.team
-booking.*.cloud.sqills
-booking.*.sqills.com
 *.ccnag.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
@@ -806,8 +803,6 @@ shop.classdojo.com
 learn.clickhouse.com
 support.cloudinary.com
 wiki.cloudinary.com
-eqrs.cms.gov
-eua.cms.gov
 hourofcode.com
 advocacy.code.org
 consensus2023.coindesk.com
@@ -3535,8 +3530,6 @@ media.rivian.com
 stories.rivian.com
 view.e.rivian.com
 simscale.com
-careers.sqills.com
-welcome.sqills.com
 f29baf0e-81df-4090-a5a5-f33cb9566b0d.storebrand.no
 kvadrat.no
 viavika.no
