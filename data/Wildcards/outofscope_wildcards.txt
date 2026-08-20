@@ -125,6 +125,7 @@ awverify.*.mortgagechoice.com
 *.leads.developersites.com.au
 *.proptrack.com.au
 *.proptrack.com
+*.resolution.de
 *skybroadband.com
 *skybet.com
 *skynewsarabia.com
@@ -585,7 +586,6 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
