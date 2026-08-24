@@ -506,9 +506,6 @@ online.*.skybingo.com
 *wordpress.com
 *.ruby-lang.org
 *.github.io
-*.home.bargains
-*.homebargains.co.uk
-*.tjmorris.co.uk
 *.ali.zomans.com
 *.bstro.io
 *.zomatoportugal.com
@@ -601,6 +598,10 @@ g.*.slackhq.com
 *.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
+*.pdq.com
+*.pdq.tools
+*.simplemdm.com
+*.smartdeploy.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be
@@ -1903,6 +1904,7 @@ compass.com
 staebapp01.allegion.com
 stczpisupplier.allegion.com
 stisupplier.allegion.com
+support.wickr.com
 community.pagerduty.com
 pagerduty.com
 university.pagerduty.com
@@ -3529,6 +3531,18 @@ limonsoda.cl
 trouw.nl
 abonnement.trouw.nl
 actie.trouw.nl
+trust.truelayer.com
+banks.truelayer.com
+careers.truelayer.com
+docs.truelayer.com
+docs.houston.truelayer.com
+truelayer.com
+index.truelayer.com
+info.truelayer.com
+signin.truelayer.com
+support.truelayer.com
+status.truelayer.com
+truelayer.zendesk.com
 elect.tweakers.net
 boekentoy.uzleuven.be
 uz-laboboeken.web.app

@@ -463,6 +463,7 @@ ic3.*.indriverapp.com
 *.wellsfargo.com
 *.payoneer.com
 *.hypermint.com
+*.iron.xyz
 *.moonpay.com
 *.moonpaycloud.com
 *.capitalone.ca
@@ -1186,7 +1187,9 @@ ic3.*.indriverapp.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
 *.truelayer.com
+*.truelayer.io
 *.truelayer-sandbox.com
 *.zimpler.com
 *.zimpler.net
