@@ -821,7 +821,6 @@ authorize.net
 cardinalcommerce.com
 currencycloud.com
 cybersource.com
-fraedom.com
 mz.visa.com
 practicalbusinessskills.org
 practicalmoneyskills.com
@@ -846,7 +845,6 @@ visa.co.ve
 visa.com
 visa.com.bo
 visa.com.br
-visa.com.cn
 visa.com.cy
 visa.com.ge
 visa.com.hk
@@ -889,14 +887,11 @@ visa.se
 visa.sk
 visaeurope.at
 visaeurope.ch
-visaeurope.es
 visaeurope.lu
 visaeurope.si
-visainfinite.ca
 visaitalia.com
 visakorea.com
 visasoutheasteurope.com
-yellowpepper.com
 *.consumer.worldcoin.org
 *.toolsforhumanity.com
 *.worldcoin-distributors.com
