@@ -1825,7 +1825,6 @@ visa.be
 visa.ca
 visa.cl
 visa.cn
-visa.co.ao
 visa.co.cr
 visa.co.id
 visa.co.il
@@ -1846,9 +1845,7 @@ visa.com.hn
 visa.com.hr
 visa.com.kh
 visa.com.kz
-visa.com.lc
 visa.com.lk
-visa.com.ms
 visa.com.my
 visa.com.ng
 visa.com.ph
