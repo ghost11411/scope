@@ -701,9 +701,9 @@ info.loom.com
 marketplace.atlassian.com
 trello.com
 blog.aurory.io
-docs.aurory.io
 sentry.io
 arbiscan.io
+ws.aurorynet.dev.aurory.io
 auth0.auth0.com
 manage.auth0.com
 accounts.auth0.com
@@ -1754,6 +1754,7 @@ applications.abercrombie.com
 nonmerchvendorprofile.anfcorp.com
 docs.moderntreasury.com
 help.moderntreasury.com
+app.moderntreasury.com
 ph.moderntreasury.com
 trust.moderntreasury.com
 moderntreasury.com
