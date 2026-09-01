@@ -1,2 +1,5 @@
-*.monzo.com
-*.prod-ffs.io
+*.acrobat.adobe.com
+*.lightroom.adobe.com
+*elvetino.ch
+*sbbcargo.com
+*transsicura.ch
