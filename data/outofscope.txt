@@ -652,6 +652,13 @@ g.*.slackhq.com
 *.telenor.com
 *.qzoneapp.com
 *.tencent.com
+coindesk.com
+uat.coindesk.com
+events.coindesk.com
+consensus2025.coindesk.com
+consensus-hongkong2025.coindesk.com
+data.coindesk.com
+developers.coindesk.com
 share.acorns.com
 grow.acorns.com
 store.acorns.com
@@ -789,12 +796,8 @@ support.cloudinary.com
 wiki.cloudinary.com
 hourofcode.com
 advocacy.code.org
-uat.coindesk.com
-events.coindesk.com
 consensus2023.coindesk.com
 consensus2024.coindesk.com
-consensus2025.coindesk.com
-consensus-hongkong2025.coindesk.com
 uat.accounts.coindesk.com
 staging.coindesk.com
 comcastbiz.net
@@ -2619,6 +2622,7 @@ instacart.careers
 life.instacart.com
 news.instacart.com
 tech.instacart.com
+phpbb.com
 socialhub.expediacruises.com
 bookus.expediacruises.com
 expediaagents.com

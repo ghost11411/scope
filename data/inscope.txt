@@ -1335,6 +1335,8 @@ ic3.*.indriverapp.com
 *.vidaxl.org
 *.vidaxl.io
 *.vidaxl.net
+data-api.coindesk.com
+tools-api.cryptocompare.com
 marketplace.atlassian.com
 acorns.com
 graphql.acorns.com
