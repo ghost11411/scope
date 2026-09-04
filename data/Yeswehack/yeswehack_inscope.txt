@@ -254,6 +254,12 @@ doc.komoju.com
 louisvuitton.com
 *.api.louisvuitton.com
 appgallery.huawei.com
+api.paymaya.com
+pg.paymaya.com
+payoutapi.maya.ph
+op.paymaya.com
+connect.paymaya.com
+paymayabiller-prod.paymaya.com
 mediamarkt.de
 saturn.de
 mediamarkt.com.tr

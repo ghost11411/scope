@@ -3062,6 +3062,7 @@ od-xx.infomaniak.ch
 drive.infomaniak.com
 s3.pub
 acronis.infomaniak.com
+paymaya.com
 api.moneyboxapp.com
 otto.de
 keycloak.apps.otto.de
