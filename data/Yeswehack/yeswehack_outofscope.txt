@@ -122,7 +122,6 @@ s3.pub
 acronis.infomaniak.com
 *.infomaniak.com
 *.louisvuitton.com
-paymaya.com
 api.moneyboxapp.com
 otto.de
 keycloak.apps.otto.de
