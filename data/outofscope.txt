@@ -159,14 +159,6 @@ argocd.*.uidapi.com
 *.bokun.app
 *.experiences.zone
 *.bokunmobile.website
-*.connect.ringier.ch
-*.onelog.ch
-*.20min-tv.ch
-*.newsnetz.tv
-*.appuser.ch
-*.iagentur.ch
-*.streamboat.ch
-*.streamboatserver.ch
 *.rc.viator.com
 *.sandbox.viator.com
 *.partner.viator.com
@@ -1009,6 +1001,7 @@ myget.octopus.com
 trust.octopus.com
 i.octopus.com
 ir.octopus.com
+shop.octopus.com
 personal.trexcloud.com
 1.oktapreview.com
 2.oktapreview.com
@@ -1184,13 +1177,6 @@ widgets-api-sit.uat.proptrack.com
 avm-sit.uat.proptrack.com
 docs.requirementyogi.com
 id.atlassian.com
-auth.simplisafe.com
-careers.simplisafe.com
-clicks.simplisafe.com
-library.simplisafe.com
-livechat.simplisafe.com
-press.simplisafe.com
-support.simplisafe.com
 skyscanner.net
 help.skyscanner.net
 carhirehelp.skyscanner.net
@@ -1274,10 +1260,6 @@ spotlight-dev.tripadvisor.com
 spotlight.tripadvisor
 careers.tripadvisor.com
 travelermail.com
-tgt.tamedia.ch
-auth.20min.ch
-cre-api.tamedia.ch
-track.20min.ch
 underarmour.com
 uabiz.com
 investor.underarmour.com
@@ -3031,6 +3013,7 @@ svn.dyson.com
 test.oepay.dyson.cn
 view.dyson.com
 dyson.ovh
+hg.weblate.org
 help.lyst.com
 domainkey.kiwi.com
 domainkey.skypicker.com
@@ -3523,6 +3506,9 @@ posti.fi
 pen-app.entrili.com
 exams.ripe.net
 ripe.net
+apps.randstad.in
+cz.randstad.com
+workplace.randstad.in
 assets.rivian.com
 careers.rivian.com
 demovehicles.rivian.com
@@ -3574,6 +3560,7 @@ repository.vlerick.com
 spoc.myshopify.com
 vlerick.myshopify.com
 webform.vlerick.com
+marketing.nitropack.io
 getflywheel.com
 aquawardsspatial.water-link.be
 water-link.be
@@ -3730,6 +3717,7 @@ tc.ownit.se
 faq.vimla.se
 status.vimla.se
 stage-vimla-se.vimla.io
+admin-stage.tv.telenor.se
 myqcloud.com
 cloud.tencent.com
 india-usa.vfsglobal.com

@@ -255,11 +255,6 @@ np.*.lfscnp.com
 *.jobapi.net
 *.sol-data.com
 *.aips-internal.com
-*.prd.cam.simplisafe.com
-*.prd.platform.simplisafe.com
-*.prd.services.simplisafe.com
-*.prd.aser.simplisafe.com
-*.prd.webapps.simplisafe.com
 *.skyscanner.net
 *.sophos.com
 *.soundcloud.org
@@ -1199,6 +1194,12 @@ ic3.*.indriverapp.com
 *.vtmgo.be
 *.voi.com
 *.voiscooters.com
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net
 *.water-link.be
 *.mijnwater-link.be
 *.watsons.com.hk
@@ -1299,10 +1300,10 @@ ic3.*.indriverapp.com
 *.api.vimla.se
 *.foretagsportalen.telenor.se
 *.mittforetag.telenor.se
-*.stream.telenor.se
 *.play.ownit.se
 *.inpli.se
 *.telenorinpli.se
+*.stream.telenor.se
 *.telenor.se
 *.vimla.work
 *.vimla.se
