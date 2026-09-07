@@ -1,5 +1,6 @@
-*.prd.cam.simplisafe.com
-*.prd.platform.simplisafe.com
-*.prd.services.simplisafe.com
-*.prd.aser.simplisafe.com
-*.prd.webapps.simplisafe.com
+*.origindigital-pac.com.au
+*.odcdn.com.au
+*.support.originenergy.com.au
+*.api.originenergy.com.au
+*.download.originenergy.com.au
+*.pinterest.com
