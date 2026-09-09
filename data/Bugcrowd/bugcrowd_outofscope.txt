@@ -200,7 +200,6 @@ status.fivetran.com
 support.fivetran.com
 community-stage.fivetran.com
 trust.fivetran.com
-training.flourish.studio
 api.gearset.com
 app.gearset.com
 us.app.gearset.com
@@ -332,6 +331,7 @@ blstr.xyz
 blstr.co
 *.blstr.co
 community.linktr.ee
+americangirlmena.com
 about.mattermost.com
 integrations.mattermost.com
 docs.mattermost.com

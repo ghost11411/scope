@@ -403,8 +403,6 @@ bus.*.indrive.com
 *.earlywarning.io
 *.zellepay.com
 *.email.instacart.com
-*.expediacruises.com
-*.expedia.com
 *.netlify.app
 *.netlify.com
 *.netlifycms.org
@@ -418,6 +416,7 @@ bus.*.indrive.com
 *.urbanclap.com
 *.egadvertising.com
 *.expediaagents.com
+*.expediacruises.com
 *.hoteis.com
 *.hoteles.com
 *.flickr.net
@@ -578,7 +577,6 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
@@ -832,7 +830,6 @@ status.fivetran.com
 support.fivetran.com
 community-stage.fivetran.com
 trust.fivetran.com
-training.flourish.studio
 api.gearset.com
 app.gearset.com
 us.app.gearset.com
@@ -928,6 +925,7 @@ freshdesk.com
 blstr.xyz
 blstr.co
 community.linktr.ee
+americangirlmena.com
 about.mattermost.com
 integrations.mattermost.com
 docs.mattermost.com
@@ -2168,8 +2166,6 @@ theossteam.unanet-gc.biz
 uat1.acqcenter.com
 uat2.acqcenter.com
 swalesaerospace.com
-globalpaymentsinc.com
-globalpayments.com
 remotesupport.heartland.us
 signin.costco.com
 events.on-running.com
@@ -2602,10 +2598,6 @@ life.instacart.com
 news.instacart.com
 tech.instacart.com
 phpbb.com
-socialhub.expediacruises.com
-bookus.expediacruises.com
-expediaagents.com
-expediapartnersolutions.com
 answers.netlify.com
 docs.netlify.com
 webpop.com
@@ -3411,18 +3403,6 @@ digi-belgium.be
 api.digi-belgium.be
 digicampus.digimobil.es
 visitors.dpgmedia.be
-app.datacamp.com
-ast-viewer.datacamp.com
-confluence.datacamp.com
-dccertified.datacamp.com
-intranet.datacamp.com
-jira.datacamp.com
-links.datacamp.com
-rdocumentation.datacamp.com
-signature.datacamp.com
-status.datacamp.com
-support.datacamp.com
-talent-jobs-api.datacamp.com
 actie.demorgen.be
 demorgen.be
 abonnement.demorgen.be

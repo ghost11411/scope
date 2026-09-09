@@ -403,8 +403,6 @@ bus.*.indrive.com
 *.earlywarning.io
 *.zellepay.com
 *.email.instacart.com
-*.expediacruises.com
-*.expedia.com
 *.netlify.app
 *.netlify.com
 *.netlifycms.org
@@ -418,6 +416,7 @@ bus.*.indrive.com
 *.urbanclap.com
 *.egadvertising.com
 *.expediaagents.com
+*.expediacruises.com
 *.hoteis.com
 *.hoteles.com
 *.flickr.net
@@ -578,7 +577,6 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
-*.it.datacamp.com
 *.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
