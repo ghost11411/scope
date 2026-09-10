@@ -1037,6 +1037,7 @@ ic3.*.indriverapp.com
 *.techbook.de
 *.travelbook.de
 *.wissen-sie-mehr.de
+*.bmc.nl
 *.ticketing.cm.com
 *.backend-capital.com
 *.capital.com
@@ -1233,6 +1234,7 @@ ic3.*.indriverapp.com
 *.drogas.lt
 *.drogas.lv
 *.moneyback.com.hk
+*.yacht.nl
 *.yahoo.com
 *.pwn.intigriti.rocks
 *.intigriti.me
@@ -1438,9 +1440,6 @@ api.canva.com
 itunes.apple.com
 carrefouruae.com
 api-prod.retailsso.com
-cfr.org
-thinkglobalhealth.org
-education.cfr.org
 chime.com
 app.chime.com
 drive.google.com
@@ -5520,6 +5519,9 @@ media.savers.co.uk
 app.savers.co.uk
 campaign.savers.co.uk
 ecom-data.savers.co.uk
+tempo-team.be
+tempo-team.com
+tempo-team.nl
 theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com

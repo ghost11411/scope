@@ -1037,6 +1037,7 @@ ic3.*.indriverapp.com
 *.techbook.de
 *.travelbook.de
 *.wissen-sie-mehr.de
+*.bmc.nl
 *.ticketing.cm.com
 *.backend-capital.com
 *.capital.com
@@ -1233,6 +1234,7 @@ ic3.*.indriverapp.com
 *.drogas.lt
 *.drogas.lv
 *.moneyback.com.hk
+*.yacht.nl
 *.yahoo.com
 *.pwn.intigriti.rocks
 *.intigriti.me
