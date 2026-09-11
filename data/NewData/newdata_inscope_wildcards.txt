@@ -1,2 +1,1 @@
-*.bmc.nl
-*.yacht.nl
+*.super.xyz
