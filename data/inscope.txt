@@ -1046,6 +1046,7 @@ ic3.*.indriverapp.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -2393,6 +2394,7 @@ vwfs.com.tw
 uae.voxcinemas.com
 skidxb.com
 magicplanetmena.com
+app.web.com
 networksolutions.com
 bluehost.com
 hostgator.com
@@ -2574,9 +2576,6 @@ aguacaliente-dev.gleague.nba.com
 aguacaliente-qa.gleague.nba.com
 aguacaliente.gleague.nba.com
 ak-static-dev.nba.com
-ak-static.cms-dev.nba.com
-ak-static.cms-qa.nba.com
-ak-static.cms.nba.com
 allstar-dev.nba.com
 amp-nba-dev.nba.com
 amp-nba-stage.nba.com
@@ -2635,7 +2634,6 @@ cdn.nba.com
 cl-qa.nba.com
 cl.nba.com
 cleveland.gleague.nba.com
-cms.nba.com
 coalition-dev.nba.com
 coalition-qa.nba.com
 communityassist.nba.com
@@ -5023,6 +5021,15 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
+profiles-api.datacamp.com
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
 myaccount.demorgen.be
 demorgen.be
 myaccount.volkskrant.nl

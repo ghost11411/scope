@@ -1,1 +1,1 @@
-*.super.xyz
+*.datacamp.com
