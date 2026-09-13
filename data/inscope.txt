@@ -2305,6 +2305,8 @@ player-login.unity.com
 unity3d.com
 services.unity.com
 unity.com
+upwork.com
+api.upwork.com
 api.usaa.com
 api-a.usaa.com
 b2bapi-a.usaa.com
@@ -2399,6 +2401,10 @@ hostgator.com
 transferwise.com
 wise.com
 wise-sandbox.com
+auth.wyze.com
+my.wyze.com
+api.wyzecam.com
+wyze.com
 staging-app.bany.dev
 staging-api.bany.dev
 ynab.com

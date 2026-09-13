@@ -1,3 +1,6 @@
-seekcdn.com
-graphql.seek.com
-auth.seek.com
+upwork.com
+api.upwork.com
+auth.wyze.com
+my.wyze.com
+api.wyzecam.com
+wyze.com
