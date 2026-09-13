@@ -751,6 +751,9 @@ confluence.requirementyogi.com
 jira.requirementyogi.com
 ww1.requirementyogi.cloud
 ww2.requirementyogi.cloud
+seekcdn.com
+graphql.seek.com
+auth.seek.com
 bb1.simplisafe.com
 bb2.simplisafe.com
 cb.simplisafe.com
@@ -1057,10 +1060,6 @@ hostgator.com
 transferwise.com
 wise.com
 wise-sandbox.com
-auth.wyze.com
-my.wyze.com
-api.wyzecam.com
-wyze.com
 staging-app.bany.dev
 staging-api.bany.dev
 ynab.com
