@@ -1,6 +1,5 @@
-upwork.com
-api.upwork.com
-auth.wyze.com
-my.wyze.com
-api.wyzecam.com
-wyze.com
+super.xyz
+api.super-id.net
+ecosystem-experience.super-id.net
+superbank.id
+chatbot.super-id.net
