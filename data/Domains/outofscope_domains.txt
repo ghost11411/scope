@@ -678,9 +678,15 @@ gogotelugo.com
 gogotours.ca
 gpden.gogoair.com
 gpmlb.gogoair.com
+gogo.aero
 gogo.to
+gosatcom.net
+satcomdirect.com.br
+satcomsimple.com
+satcomtest.com
 sdgov.gogoair.com
 legacy.gogoair.com
+aeroxr.com
 gogo574.com
 gogoair.com
 gogocloud.net
@@ -924,8 +930,6 @@ supabase.dev
 supabase.productions
 supabase.sh
 auth.finnair.com
-x.com
-youtube.com
 advisoryworld.com
 issue-management.iontrading.com
 devcenter.unico.io
@@ -2854,6 +2858,7 @@ rancher.ninjakiwi.me
 store.ninjakiwi.com
 support.ninjakiwi.com
 icarusadmin.ninjakiwi.com
+a.simplemdm.com
 personio.de
 personio.slack.com
 statuspage.personio.de
