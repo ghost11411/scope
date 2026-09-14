@@ -24,6 +24,7 @@
 *.blofin.com
 *.taxify.eu
 *.bolt.eu
+*.boltable.eu
 *.gov.bugcrowd.net
 *.bugcrowd.com
 *.canva.com
@@ -1125,6 +1126,8 @@ ic3.*.indriverapp.com
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
+*.ninjakiwi.me
+*.nkstatic.com
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
@@ -1193,11 +1196,10 @@ ic3.*.indriverapp.com
 *.tomorrowland.com
 *.trouw.nl
 *.truelayer.com
-*.truelayer-sandbox.com
-*.zimpler.com
 *.zimpler.net
-*.staging.zimpler.net
 *.sandbox.zimpler.net
+*.staging.zimpler.net
+*.truelayer-sandbox.com
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net

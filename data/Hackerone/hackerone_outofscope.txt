@@ -1151,6 +1151,7 @@ travel.aig.co.jp
 1008.aig.com
 180.aig.com
 280.aig.com
+aigportal.de
 corebridgefinancial.com
 *.fip.finra.org
 ews.finra.org
