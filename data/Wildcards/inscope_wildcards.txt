@@ -1050,7 +1050,6 @@ ic3.*.indriverapp.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1211,7 +1210,9 @@ ic3.*.indriverapp.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
 *.truelayer.com
+*.truelayer.io
 *.zimpler.net
 *.sandbox.zimpler.net
 *.staging.zimpler.net
@@ -1316,8 +1317,8 @@ ic3.*.indriverapp.com
 *.gotdrops.cloud
 *.easy4ipcloud.com
 *.kdrive.infomaniak.com
-*.kchat.infomaniak.com
 *.infomaniak.com
+*.kchat.infomaniak.com
 *.vod2.infomaniak.com
 *.api.louisvuitton.com
 *.soyoustart.com
