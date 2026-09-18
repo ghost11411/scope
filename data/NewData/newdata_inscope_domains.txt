@@ -1,5 +1,12 @@
-opensea.io
-wallet.opensea.io
-io.opensea
-mcp.opensea.io
-pexels.com
+manager.thefork.com
+widget.thefork.com
+api.thefork.io
+secure.thefork.com
+payment.lafourchette.com
+theforkmanager.com
+thefork.com
+api.thefork.com
+api-ws.thefork.com
+m.thefork.com
+blog.thefork.com
+restaurant-information.com

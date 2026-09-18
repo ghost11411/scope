@@ -139,6 +139,8 @@ awverify.*.mortgagechoice.com
 *.mobile.uscc.com
 *.moengage.com
 *.engage.tesla.com
+*.myfourchette.com
+*.lafourchette.rest
 argocd.*.uidapi.com
 *.skilljarapp.com
 *.smartling.com
