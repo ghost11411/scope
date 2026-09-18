@@ -658,6 +658,8 @@ develop-app.ynab.com
 learn.ynab.com
 support.zendesk.com
 zendesk.com
+bundesdruckerei.de
+youniqx.com
 blog.wolt.com
 wpengine.com
 gettest.wolt.com
@@ -2783,6 +2785,18 @@ digi-belgium.be
 api.digi-belgium.be
 digicampus.digimobil.es
 visitors.dpgmedia.be
+app.datacamp.com
+ast-viewer.datacamp.com
+confluence.datacamp.com
+dccertified.datacamp.com
+intranet.datacamp.com
+jira.datacamp.com
+links.datacamp.com
+rdocumentation.datacamp.com
+signature.datacamp.com
+status.datacamp.com
+support.datacamp.com
+talent-jobs-api.datacamp.com
 actie.demorgen.be
 demorgen.be
 abonnement.demorgen.be
