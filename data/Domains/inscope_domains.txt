@@ -568,6 +568,11 @@ chat.openai.com
 openai.org
 openai.com
 platform.openai.com
+opensea.io
+wallet.opensea.io
+io.opensea
+mcp.opensea.io
+etherscan.io
 auth.opera.com
 accounts.opera.com
 flow.opera.com
@@ -668,6 +673,7 @@ api-businessportal.origin.com.au
 osl.com
 atlassian.ost-consulting.be
 dashboard.pantheon.io
+pexels.com
 api.pinterest.com
 microsoftedge.microsoft.com
 addons.mozilla.org
@@ -844,18 +850,6 @@ tempus-ex.com
 docs.tempus-ex.com
 infiniteathlete.ai
 platform.infiniteathlete.ai
-manager.thefork.com
-widget.thefork.com
-api.thefork.io
-secure.thefork.com
-payment.lafourchette.com
-theforkmanager.com
-thefork.com
-api.thefork.com
-api-ws.thefork.com
-m.thefork.com
-blog.thefork.com
-restaurant-information.com
 open.sincera.io
 desk.thetradedesk.com
 api.thetradedesk.com
@@ -2046,7 +2040,6 @@ auth.ripio.com
 app.ripio.com
 basescan.org
 bridge.ripio.com
-etherscan.io
 kyc.ripio.com
 worldscan.org
 sandbox-b2b.ripio.com

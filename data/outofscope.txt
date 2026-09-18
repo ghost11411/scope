@@ -139,8 +139,6 @@ awverify.*.mortgagechoice.com
 *.mobile.uscc.com
 *.moengage.com
 *.engage.tesla.com
-*.myfourchette.com
-*.lafourchette.rest
 argocd.*.uidapi.com
 *.skilljarapp.com
 *.smartling.com
@@ -1243,12 +1241,6 @@ shop.eu.teslamotors.com
 service.tesla.com
 service.tesla.cn
 maxwell.com
-myfourchette.com
-website.theforkmanager.com
-login.theforkmanager.com
-developer.thefork.io
-module.thefork.com
-lafourchette.com
 investors.thetradedesk.com
 ask.thetradedesk.com
 thetradedeskedgeacademy.com

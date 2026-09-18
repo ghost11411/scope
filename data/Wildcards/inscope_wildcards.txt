@@ -221,6 +221,7 @@ np.*.lfscnp.com
 *.support.originenergy.com.au
 *.api.originenergy.com.au
 *.download.originenergy.com.au
+*.pexels.com
 *.pinterest.com
 *.pixabay.com
 *.points.com
@@ -277,7 +278,6 @@ np.*.lfscnp.com
 *.teslamotors.com
 *.solarcity.com
 *.teslainsuranceservices.com
-*.tools.thefork.tech
 *.prod.uidapi.com
 *.thetradedesk.com
 *.adsrvr.org
