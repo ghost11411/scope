@@ -133,6 +133,9 @@ awverify.*.mortgagechoice.com
 *.snapnames.com
 *.namejet.com
 *.buydomains.com
+*.afterpay.com
+*.cash.me
+*.tidal.com
 *.atlassian.com
 *.sprint.net
 *.mobile.uscc.net
@@ -470,6 +473,7 @@ online.*.skybingo.com
 *.jina.ai
 *.kbndev.co
 *.keephq.dev
+*.swiftype.com
 *.communicatie.vennhypotheken.nl
 *.events.gs.com
 *.overrules.vennhypotheken.nl
@@ -579,6 +583,7 @@ g.*.slackhq.com
 *.citymesh.recruitee.com
 *.digi-mobile.be
 *.insky.be
+*.it.datacamp.com
 *.snapshooter.com
 *.db.ondigitalocean.com
 *.db1.ondigitalocean.com
@@ -593,6 +598,7 @@ g.*.slackhq.com
 *.swop.com
 *.configuratoren.nl
 *.zoofy.nl
+*.cineramabios.nl
 *.lxc.liferay.com
 *.monzo.me
 *.nexuzhealth.pro
