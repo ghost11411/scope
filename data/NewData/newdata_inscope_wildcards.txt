@@ -1,3 +1,2 @@
-*.lululemon.com
-*.vercel.com
-*.vercel.live
+*.binance.com
+*.binance.us
