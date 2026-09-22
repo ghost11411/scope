@@ -58,8 +58,6 @@ portalapi.*.afterpay.com
 *.doj.io
 *.dojo.me
 *.sys.comcast.net
-*.dell.com
-*.delltechnologies.com
 casino.*.betmgm.com
 *.epam.com
 *.projects.epam.com
@@ -1522,7 +1520,6 @@ coindesk.com
 business.comcast.com
 xfinity.com
 consensus2026.sandbox.events.coindesk.com
-console.delltechnologies.com
 docs.eazybi.com
 my.elementor.com
 go.elementor.com
