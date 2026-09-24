@@ -962,6 +962,7 @@ app.klarna.com
 jobs.pricerunner.com
 locker.klarna.com
 nuji.com
+eventplatform.kaltura.com
 devcenter.unico.io
 uconf.uat.unico.app
 docs.wallet.tg
@@ -2921,6 +2922,7 @@ pen-app.entrili.com
 exams.ripe.net
 labs.ripe.net
 ripe.net
+grizzlyforce.com
 apps.randstad.in
 cz.randstad.com
 workplace.randstad.in
@@ -2940,6 +2942,18 @@ limonsoda.cl
 trouw.nl
 abonnement.trouw.nl
 actie.trouw.nl
+trust.truelayer.com
+banks.truelayer.com
+careers.truelayer.com
+docs.truelayer.com
+docs.houston.truelayer.com
+truelayer.com
+index.truelayer.com
+info.truelayer.com
+signin.truelayer.com
+support.truelayer.com
+status.truelayer.com
+truelayer.zendesk.com
 elect.tweakers.net
 boekentoy.uzleuven.be
 uz-laboboeken.web.app
