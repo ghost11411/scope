@@ -1280,7 +1280,6 @@ ic3.*.indriverapp.com
 *.alipayplus.com
 *.antom.com
 *.worldfirst.com
-*.contentsquare.com
 *.cyberghostvpn.com
 *.cyberghost.com
 *.captcha-delivery.com
@@ -5828,9 +5827,6 @@ m.blablacar
 api.blablalines.com
 daily.blablacar.fr
 blablacardaily.com
-mobile-production.content-square.net
-m.csqtrk.net
-s.contentsquare.net
 bounty.cryptobox.com
 cyberghost.com
 cyberghost.app
