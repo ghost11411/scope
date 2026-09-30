@@ -1853,6 +1853,7 @@ solutions.visaacceptance.com
 usa.visa.com
 visabg.com
 visa.co.nz
+currencycloud.com
 myvisacardportal.com
 visa.com.az
 visa.com.ua
@@ -1882,7 +1883,6 @@ visaonchainanalytics.com
 visasgic.api-xperience.com
 vwcm.visa.com
 authorize.net
-currencycloud.com
 cybersource.com
 practicalbusinessskills.org
 practicalmoneyskills.com
@@ -4352,16 +4352,6 @@ fm.voiapp.io
 repair.voiweb.net
 report.voi.com
 voi.com
-app.getflywheel.com
-getflywheel.com
-my.wpengine.com
-payments.wpengine.com
-wpengine.com
-advancedcustomfields.com
-bettersearchreplace.com
-makeshift.film
-studiopress.blog
-torquemag.io
 desktop.water-link.be
 pit.water-link.be
 water-link-jaarverslag.be

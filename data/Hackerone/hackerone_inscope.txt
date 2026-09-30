@@ -837,6 +837,7 @@ solutions.visaacceptance.com
 usa.visa.com
 visabg.com
 visa.co.nz
+currencycloud.com
 myvisacardportal.com
 visa.com.az
 visa.com.ua
@@ -866,7 +867,6 @@ visaonchainanalytics.com
 visasgic.api-xperience.com
 vwcm.visa.com
 authorize.net
-currencycloud.com
 cybersource.com
 practicalbusinessskills.org
 practicalmoneyskills.com
