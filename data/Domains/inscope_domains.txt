@@ -3,7 +3,6 @@ tools-api.cryptocompare.com
 marketplace.atlassian.com
 acorns.com
 graphql.acorns.com
-gohenry.com
 pixpay.fr
 app.simple-reports.com
 aiven.io
