@@ -1,5 +1,3 @@
-*.gp.monash.edu
-*.ninjakiwi.me
-*.nkstatic.com
-*.truelayer.cloud
-*.truelayer.io
+*.data.api.platform.here.com
+*.metrics.platform.here.com
+*.platform.here.com

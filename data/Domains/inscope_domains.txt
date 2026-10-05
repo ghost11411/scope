@@ -1348,6 +1348,7 @@ coalition-dev.nba.com
 coalition-qa.nba.com
 comets-dev.wnba.com
 comets-qa.wnba.com
+comets-uat.wnba.com
 comets.wnba.com
 communityassist.nba.com
 contact-dev.nba.com
@@ -3987,8 +3988,16 @@ service.fing.com
 app.fing.com
 demo.tendertracker.de
 gulp-shop.de
-jaguar.here.com
-landrover.here.com
+registry.service.api.platform.here.com
+search.hereapi.com
+transit.hereapi.com
+vector.hereapi.com
+mobilitygraph.hereapi.com
+account.api.here.com
+account.here.com
+listing.here.com
+mapcreator.here.com
+xyz.api.here.com
 hln.be
 myaccount.hln.be
 myaccount.parool.nl
@@ -4403,7 +4412,6 @@ sbb.ch
 elvetino.ch
 sbbcargo.com
 transsicura.ch
-cz.skodaauto.myskoda
 app.nl.socialdeal
 socialdeal.nl
 whynot.com

@@ -696,8 +696,6 @@ software.cts.l3harris.com
 swarm.thorntontomasetti.com
 tms.l3commercialaviation.com
 andurilgear.com
-drakesoftware.com
-taxact.com
 taxactonline.com
 kyc.ondato.net
 kyc.api.ondato.net
