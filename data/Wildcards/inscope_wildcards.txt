@@ -181,6 +181,7 @@ np.*.lfscnp.com
 *.mlife.mo
 *.mgmmacau.com
 *.tickets.mgm.mo
+*.gp.monash.edu
 *.myfitnesspal.com
 *.nr-data.net
 *.nr-ops.net
@@ -635,11 +636,6 @@ sip.*.twilio.com
 *.travelocity.com
 *.vrbo.com
 *.wotif.com
-*.infra-prod.nsvcs.net
-*.onegraph.com
-*.ops.netlify.com
-*.services-prod.nsvcs.net
-*.services.netlify.com
 *.fanduel.com
 *.mgmt.fndlsb.net
 *.prd.fndlsb.net
@@ -1139,6 +1135,8 @@ sip.*.twilio.com
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
+*.ninjakiwi.me
+*.nkstatic.com
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
@@ -1206,7 +1204,9 @@ sip.*.twilio.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
 *.truelayer.com
+*.truelayer.io
 *.zimpler.net
 *.sandbox.zimpler.net
 *.staging.zimpler.net

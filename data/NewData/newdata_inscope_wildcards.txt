@@ -1,2 +1,5 @@
+*.gp.monash.edu
+*.ninjakiwi.me
+*.nkstatic.com
 *.truelayer.cloud
 *.truelayer.io
