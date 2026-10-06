@@ -926,6 +926,8 @@ sip.*.twilio.com
 *.tstaging.com
 *.tstaging.tools
 *.fetlife.com
+*.algolia.net
+*.algolianet.com
 *.grab-sure.com
 *.grab.co
 *.grab.com
@@ -4865,6 +4867,8 @@ secure-dfadmin.deriv.com
 smarttrader.deriv.com
 fetlife.com
 fetlifemail.com
+dashboard.algolia.com
+algolia.com
 appgallery.huawei.com
 api.grabpay.com
 gamma.grab.co
@@ -6379,12 +6383,15 @@ ywh.dev.zecible.fr
 ywh.crons.zecible.fr
 ywh.routage.zecible.fr
 ywh.update.zecible.fr
-odoo14.notebleue.pro
+git.notebleue.pro
 registre.notebleue.pro
 svn.notebleue.pro
 todo.notebleue.pro
 webtoolbox.notebleue.pro
 cam.notebleue.pro
+ywh.verify.zecible.fr
+ywh.static.zcb.fr
+odoo.zecible.pro
 toom.de
 api.toom.de
 co.uk.com
