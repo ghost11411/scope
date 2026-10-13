@@ -724,10 +724,6 @@ apjevents.twilio.com
 cdpweek.com
 chatagotchi.app
 click.sendgrid.com
-community.segment.com
-events.cdpweek.com
-segment.com
-twilio.com
 jobs.twilio.com
 js.stytch.com
 lab.authy.com
@@ -2811,7 +2807,6 @@ pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
-a.simplemdm.com
 personio.de
 personio.slack.com
 statuspage.personio.de
