@@ -1,9 +1,5 @@
 *.acorns.com
 *app.simple-reports.com
-*.arlo.com
-*.arloxcld.com
-*-prod.arlo.com
-*.arlocloud.com
 *.asana.plus
 *.app.asana.com
 *.asana.biz
@@ -261,7 +257,6 @@ np.*.lfscnp.com
 *.prd.services.simplisafe.com
 *.prd.aser.simplisafe.com
 *.prd.webapps.simplisafe.com
-*.skyscanner.net
 *.sophos.com
 *.soundcloud.org
 *.s-cloud.net
@@ -1319,12 +1314,6 @@ sip.*.twilio.com
 *.ownit.se
 *.bredbandsbolaget.se
 *.europolitan.se
-*.vfsevisa.com
-*.onevasco.com
-*.directverify.in
-*.docswallet.com
-*.vfsglobal.by
-*.vfsai.com
 *.vidaxl.org
 *.vidaxl.io
 *.vidaxl.net
