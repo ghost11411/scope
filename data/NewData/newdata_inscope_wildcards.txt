@@ -1,3 +1,2 @@
-*.getdbt.com
-*.dbt.com
-*.dbtlabs.com
+*.kwsdose.be
+*.playuzleuven.be
