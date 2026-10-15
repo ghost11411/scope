@@ -11,6 +11,13 @@ console.aiven.io
 api.aiven.io
 github.com
 falcon-bug-bounty-flag-pgsql-dev-sandbox.e.aivencloud.com
+beta.arlo.com
+mcs.arlo.com
+my.arlo.com
+myapi.arlo.com
+arlo.com
+updates.arlo.com
+partnerapi.arlo.com
 app.asana.com
 asana.com
 form.asana.com
@@ -58,10 +65,6 @@ coinmarketcap.com
 binance.us
 binance.tr
 bitdefender.com
-app.bitgo.com
-app.bitgo-test.com
-bitgo.ae
-usdstandard.com
 web.bitpanda.com
 bitpanda.com
 api.bitpanda.com
@@ -775,6 +778,9 @@ simplisafe.com
 simplisafe.co.uk
 api.prd.commerce.simplisafe.com
 skroutz.gr
+gateway.skyscanner.net
+skyscanner.net
+partnerportal.skyscanner.net
 blockexplorer.electroneum.com
 testnet-blockexplorer.electroneum.com
 snapnames.com

@@ -1,5 +1,6 @@
 *.aiven.fi
 *.avns.net
+*.arlo.com
 *.integrations.asana.plus
 *.bitbucket.io
 *.trustwallet.com
@@ -753,6 +754,10 @@ tag-cloud.appsplus.co
 update-this.appsplus.co
 word-count.appsplus.co
 zoom-recordings.appsplus.co
+community.arlo.com
+investor.arlo.com
+research.arlo.com
+survey.arlo.com
 asana.com
 asana.okta.com
 assets.asana.biz
@@ -1242,6 +1247,14 @@ library.simplisafe.com
 livechat.simplisafe.com
 press.simplisafe.com
 support.simplisafe.com
+skyscanner.net
+help.skyscanner.net
+carhirehelp.skyscanner.net
+hotelshelp.skyscanner.net
+support.business.skyscanner.net
+partners.skyscanner.net
+creators.skyscanner.net
+preferences.skyscanner.net
 namejet.com
 community.sophos.com
 sophos.atlassian.net
