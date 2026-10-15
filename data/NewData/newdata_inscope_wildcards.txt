@@ -1,7 +1,1 @@
-*.bitgo.com
-*.vfsevisa.com
-*.onevasco.com
-*.directverify.in
-*.docswallet.com
-*.vfsglobal.by
-*.vfsai.com
+*.expedia.biz
