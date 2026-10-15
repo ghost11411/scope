@@ -87,6 +87,11 @@ binance.tr
 *.bitdefender.net
 *.bitdefender.com
 bitdefender.com
+*.bitgo.com
+app.bitgo.com
+app.bitgo-test.com
+bitgo.ae
+usdstandard.com
 web.bitpanda.com
 bitpanda.com
 api.bitpanda.com
