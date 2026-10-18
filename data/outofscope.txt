@@ -682,7 +682,6 @@ g.*.slackhq.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
 *.zimpler.com
-*.uphodl.com
 *.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.net
@@ -3643,17 +3642,6 @@ vacatures.uzleuven.be
 forums.ubisoft.com
 ivalua.ubisoft.com
 suppliers-ivalua.ubisoft.com
-support-sandbox.uphold.com
-support-staging.topperpay.com
-uphodl.com
-api.topperpay.com
-api.uphold.com
-app.topperpay.com
-cms.optimuscards.com
-graphql.topperpay.com
-support.topperpay.com
-support.uphold.com
-wallet.uphold.com
 cds.vrt.radio
 innovatie.vrt.be
 vtmgo.be
