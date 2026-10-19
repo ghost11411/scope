@@ -652,6 +652,10 @@ g.*.slackhq.com
 *.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
+*.pdq.com
+*.pdq.tools
+*.simplemdm.com
+*.smartdeploy.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be
@@ -3596,6 +3600,7 @@ pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
+a.simplemdm.com
 personio.de
 personio.slack.com
 statuspage.personio.de
@@ -3651,6 +3656,14 @@ support.truelayer.com
 status.truelayer.com
 truelayer.zendesk.com
 elect.tweakers.net
+boekentoy.uzleuven.be
+uz-laboboeken.web.app
+laboboeken.uzleuven.be
+boekentoy.firebaseio.com
+uz-laboboeken.firebaseio.com
+jobs.uzleuven.be
+uzleuven.atlassian.net
+vacatures.uzleuven.be
 forums.ubisoft.com
 ivalua.ubisoft.com
 suppliers-ivalua.ubisoft.com
