@@ -930,6 +930,7 @@ sip.*.twilio.com
 *.ovofinansial.com
 *.taralite.com
 *.kayak.com
+*.hey.com
 *.pci.shopifyinc.com
 *.shopify.com
 *.myshopify.com
@@ -1167,6 +1168,8 @@ sip.*.twilio.com
 *.vintia.com
 *.wecosystem.com
 *.app.spacelift.dev
+*.sqills.com
+*.sqills.team
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com
@@ -2578,6 +2581,9 @@ bitstamp.net
 1wtoken.com
 solscan.io
 dif.tech.plata
+people.plata.team
+plata.co
+prime.plata.co
 lb1.iris.cgophobb.com
 admin.meeshosupply.com
 affiliate.meesho.com
@@ -4931,6 +4937,14 @@ momondo.dk
 momondo.se
 mundi.com.br
 swoodoo.com
+basecamp.app
+basecamp.com
+hey.app
+hey.com
+app.basecamp.com
+snapcraft.io
+launchpad.37signals.com
+world.hey.com
 shopifycompass.com
 shopify.com
 vendorvoice.shopifycloud.com
@@ -5482,15 +5496,6 @@ docs.lansweeper.com
 login.lansweeper.com
 lansweeper.com
 libelle.nl
-sandbox.striga.com
-vault.striga.eu
-tfr-sandbox.striga.com
-hooks.striga.com
-9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com
-app.uma.money
-link.uma.me
-api.lightspark.com
-app.lightspark.com
 marionnaud.fr
 app.marionnaud.fr
 media.marionnaud.fr
