@@ -2878,6 +2878,7 @@ lansweeper.com
 libelle.nl
 actie.libelle.nl
 login.liferay.com
+support.lightspark.com
 community.monzo.com
 login.internal.monzo.com
 monzo.me
@@ -3144,6 +3145,7 @@ ukvitest.vfsglobal.com
 online.vfsevisa.com
 portal.vfsevisa.com
 egonline.vfsevisa.com
+vinci-groupe.profils.org
 lafabriquedelacite.com
 wishes.vinci.com
 voeux.vinci.com
