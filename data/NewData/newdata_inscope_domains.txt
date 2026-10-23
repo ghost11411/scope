@@ -1,1 +1,4 @@
-developer.arkoselabs.com
+auth2.pdq.com
+library.pdq.com
+portal.pdq.com
+app.pdq.com
