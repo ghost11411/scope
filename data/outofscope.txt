@@ -447,7 +447,6 @@ bus.*.indrive.com
 *.wlnp.att.com
 *.workdayinfortraining.att.com
 *tworks-att.com
-*solidus.io
 *.dev.dynatracelabs.com
 *.dynatrace.com
 *.citymapper.com
@@ -652,10 +651,6 @@ g.*.slackhq.com
 *.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
-*.pdq.com
-*.pdq.tools
-*.simplemdm.com
-*.smartdeploy.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be
@@ -3568,7 +3563,6 @@ pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
-a.simplemdm.com
 personio.de
 personio.slack.com
 statuspage.personio.de
