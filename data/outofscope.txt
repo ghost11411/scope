@@ -609,9 +609,6 @@ online.*.skybingo.com
 *.polishmywriting.com
 *.scrollkit.com
 status.*.coinbase.com
-*.concrete5.org
-*.concretecms.com
-*.concretecms.org
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
@@ -3431,9 +3428,6 @@ try.pressable.com
 my.pressable.com
 pressable.com
 status.coinbase.com
-concrete5.org
-concretecms.com
-concretecms.org
 slackhq.com
 status.slack.com
 go.hacker.one
