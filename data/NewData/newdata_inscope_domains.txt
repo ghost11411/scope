@@ -1,4 +1,1 @@
-cpl.thalesgroup.com
-imperva.com
-supportportal.thalesgroup.com
-chatgpt.com
+mcp-staging.getmoneytree.com
