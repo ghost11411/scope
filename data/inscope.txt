@@ -1025,6 +1025,7 @@ sip.*.twilio.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -1756,7 +1757,6 @@ lapi.yellowblocks.me
 shiseido.me
 lego.me
 psychobunny.me
-fashion4less.me
 pacsun.me
 app.magicestimations.com
 sharerewards.com
@@ -5215,6 +5215,15 @@ platform.cloudways.com
 unified.cloudways.com
 cloudways.com
 css-tricks.com
+profiles-api.datacamp.com
+app.datacamp.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+datacamp.com
 myaccount.demorgen.be
 demorgen.be
 myaccount.volkskrant.nl
@@ -5758,6 +5767,13 @@ spontaan.nl
 app.nl.socialdeal
 whynot.com
 solarwinds.com
+soundtrack.io
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+auth.api.soundtrackyourbrand.com
+radio.api.soundtrackyourbrand.com
 app.spacelift.dev
 spacelift.dev
 superdrug.com
