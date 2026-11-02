@@ -207,11 +207,6 @@ argocd.*.uidapi.com
 *.valmo.in
 *.authanvil.com
 *.passly.com
-*.edge.gateways.konghq.com
-*.gateways.konghq.com
-*.gateways.konggateway.com
-*.edge.gateways.konggateway.com
-*.konghq.tech
 *.blog.thenorthface.com.br
 *.jansport.ca
 *.jansport.cl
@@ -447,6 +442,7 @@ bus.*.indrive.com
 *.wlnp.att.com
 *.workdayinfortraining.att.com
 *tworks-att.com
+*solidus.io
 *.dev.dynatracelabs.com
 *.dynatrace.com
 *.citymapper.com
@@ -460,8 +456,6 @@ bus.*.indrive.com
 *.zellepay.com
 *.email.instacart.com
 *.unatalabs.com
-*.expediaagents.com
-*.expediacruises.com
 *.fndl.dev
 *.gokangu.cl
 *.gokangu.co
@@ -471,6 +465,8 @@ bus.*.indrive.com
 *.kangu.tech
 *.urbanclap.com
 *.egadvertising.com
+*.expediaagents.com
+*.expediacruises.com
 *.hoteis.com
 *.hoteles.com
 *.flickr.net
@@ -685,7 +681,6 @@ booking.*.sqills.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
 *.zimpler.com
-*.uphodl.com
 *.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.net
