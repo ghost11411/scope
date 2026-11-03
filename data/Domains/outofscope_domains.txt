@@ -1272,6 +1272,7 @@ a1.hilton.com
 eis.hilton.com
 guestfeedback.hilton.com
 hgv.com
+hhibeachandtennis.com
 hiltonfoundation.org
 hiltongrandvacations.com
 hiltonnet.hilton.com
@@ -1917,6 +1918,7 @@ manage.gocardless
 xero-staging.gocardless.com
 xero.gocardless.com
 app.disputeprocessing-test.equifax.com
+promo.application.equifax.com
 app.disputeprocessing.equifax.com
 preview.midigator.com
 datapod-1-100-ingest.development.forescoutcloud.net
