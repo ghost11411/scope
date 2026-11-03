@@ -3564,10 +3564,6 @@ tracking.digitalocean.com
 waves.digitalocean.com
 registry.digitalocean.com
 driessen.nl
-community.dropbox.com
-replay.dropbox.com
-community-stage.dropbox.com
-community-dev.dropbox.com
 docs.google.com
 20years.eurid.eu
 changelog.exoscale.com

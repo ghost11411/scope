@@ -3773,7 +3773,6 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 de.bmw.connected.mobile20.row
-challenge-brp.challenges.intigriti.io
 login.cm.com
 api.cm.com
 api.cmtelecom.com
@@ -3834,15 +3833,6 @@ digitaloceantest.com
 do.co
 hackathon-tracker.digitalocean.com
 hacktoberfest.com
-dropbox.com
-sign.dropbox.com
-hellosign.com
-dash.ai
-dash.dropbox.com
-api.dropbox.com
-hellofax.com
-docsend.com
-app.reclaim.ai
 docs.google.com
 staatsloterij.nederlandseloterij.nl
 krasloten.nederlandseloterij.nl
