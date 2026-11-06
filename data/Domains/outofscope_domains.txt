@@ -2851,6 +2851,7 @@ community.dropbox.com
 replay.dropbox.com
 community-stage.dropbox.com
 community-dev.dropbox.com
+docs.google.com
 20years.eurid.eu
 changelog.exoscale.com
 exoscalestatus.com
@@ -2902,6 +2903,9 @@ shop.kinepolis.be
 shop.kinepolis.es
 shop.kinepolis.fr
 shop.kinepolis.lu
+careers.kiwa.com
+qr.kiwa.com
+kiwa.com
 lsagentrelay.lansweeper.com
 careers.lansweeper.com
 lansweeper.com
@@ -3083,10 +3087,7 @@ cloud.cloud2.harmanaudio.com
 cloud.cloud1.harmanaudio.com
 cloud.cloud3.harmanaudio.com
 secondchance.jbl.com
-jp.harmanaudio.com
-jp.jbl.com
 devicedb.roonlabs.net
-pl.jbl.com
 ov-xx.infomaniak.ch
 od-xx.infomaniak.ch
 drive.infomaniak.com

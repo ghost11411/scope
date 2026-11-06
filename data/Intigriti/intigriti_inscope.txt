@@ -5,6 +5,7 @@ ad.nl
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
+*.attentia.be
 newsos.com
 politico.eu
 adtechnology.axelspringer.com
@@ -135,6 +136,7 @@ app.reclaim.ai
 *.helloworks.com
 *.hellosign.com
 *.dash.ai
+docs.google.com
 staatsloterij.nederlandseloterij.nl
 krasloten.nederlandseloterij.nl
 eurojackpot.nederlandseloterij.nl

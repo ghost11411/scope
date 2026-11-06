@@ -78,6 +78,7 @@ community.dropbox.com
 replay.dropbox.com
 community-stage.dropbox.com
 community-dev.dropbox.com
+docs.google.com
 20years.eurid.eu
 *.yadifa.eu
 changelog.exoscale.com
@@ -134,6 +135,9 @@ shop.kinepolis.be
 shop.kinepolis.es
 shop.kinepolis.fr
 shop.kinepolis.lu
+careers.kiwa.com
+qr.kiwa.com
+kiwa.com
 lsagentrelay.lansweeper.com
 careers.lansweeper.com
 lansweeper.com
