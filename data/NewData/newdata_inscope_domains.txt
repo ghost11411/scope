@@ -1,2 +1,4 @@
-bug-bounty-mcp.k8s.tools-001.d-use-1.braze-dev.com
-docs.google.com
+auth2.pdq.com
+library.pdq.com
+portal.pdq.com
+app.pdq.com
