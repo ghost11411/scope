@@ -983,6 +983,7 @@ sip.*.twilio.com
 *.travelbook.de
 *.wissen-sie-mehr.de
 *.bmc.nl
+*.ticketing.cm.com
 *.backend-capital.com
 *.capital.com
 *.itcapital.io
@@ -1081,6 +1082,11 @@ sip.*.twilio.com
 *.personiowhistleblowing.com
 *.ripe.net
 *.rivian.com
+*.swisspass.ch
+*.sbb.ch
+*elvetino.ch
+*sbbcargo.com
+*transsicura.ch
 *.cognitec-systems.de
 *.cognitec.com
 *.danalock.com
@@ -1145,6 +1151,14 @@ sip.*.twilio.com
 *.playuzleuven.be
 *.vtm.be
 *.vtmgo.be
+*.voi.com
+*.voiscooters.com
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net
 *.watsons.com.hk
 *.watsons.co.th
 *.watsons.com.tw

@@ -144,6 +144,7 @@ community.meraki.com
 community-staging.meraki.com
 meraki.cisco.com
 documentation.meraki.com
+data.wien.gv.at
 geschichtewiki.wien.gv.at
 bi.bildung-wien.gv.at
 shop.classdojo.com
@@ -1726,6 +1727,7 @@ faraday.atlassian.net
 help.evernote.com
 signrequest.com
 sr-staging-1.com
+oasisprotocol.org
 api.lemlist.com
 api.taplio.com
 api.tweethunter.io
@@ -2984,6 +2986,7 @@ repository.vlerick.com
 spoc.myshopify.com
 vlerick.myshopify.com
 webform.vlerick.com
+marketing.nitropack.io
 getflywheel.com
 zabka-snrs.zabka.pl
 foodziki.zabka.pl

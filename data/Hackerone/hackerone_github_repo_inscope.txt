@@ -62,6 +62,12 @@ https://github.com/moonpay
 https://github.com/stripe/munkisrv
 https://github.com/stripe/smokescreen
 https://github.com/DopplerHQ/cli
+https://github.com/oasisprotocol/curve25519-voi
+https://github.com/oasisprotocol/deoxysii
+https://github.com/oasisprotocol/deoxysii-rust
+https://github.com/oasisprotocol/oasis-core
+https://github.com/oasisprotocol/oasis-sdk
+https://github.com/oasisprotocol/oasis-wallet-web
 https://github.com/ExodusOSS/bytes
 https://github.com/ExodusOSS/crypto
 https://github.com/ExodusOSS/hydra
@@ -132,6 +138,7 @@ https://github.com/plaid/plaid-link-ios
 https://github.com/plaid/plaid-ruby
 https://github.com/plaid/react-native-plaid-link-sdk
 https://github.com/plaid/react-plaid-link
+https://github.com/brave/*,
 https://github.com/Shopify
 https://github.com/cdnjs/cdnjs
 https://github.com/cloudflare
