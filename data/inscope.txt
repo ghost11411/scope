@@ -1081,11 +1081,6 @@ sip.*.twilio.com
 *.personiowhistleblowing.com
 *.ripe.net
 *.rivian.com
-*.swisspass.ch
-*.sbb.ch
-*elvetino.ch
-*sbbcargo.com
-*transsicura.ch
 *.cognitec-systems.de
 *.cognitec.com
 *.danalock.com
@@ -5069,7 +5064,6 @@ sign.dropbox.com
 app.reclaim.ai
 docsend.com
 hellofax.com
-docs.google.com
 staatsloterij.nederlandseloterij.nl
 krasloten.nederlandseloterij.nl
 eurojackpot.nederlandseloterij.nl
@@ -5543,10 +5537,6 @@ lirportal.ripe.net
 business.rivian.com
 rivian.com
 basecamp.rivian.com
-sbb.ch
-elvetino.ch
-sbbcargo.com
-transsicura.ch
 socialdeal.nl
 spontaan.nl
 app.nl.socialdeal
