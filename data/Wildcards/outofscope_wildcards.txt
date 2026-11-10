@@ -445,8 +445,6 @@ bus.*.indrive.com
 *.workdayinfortraining.att.com
 *tworks-att.com
 *solidus.io
-*.dev.dynatracelabs.com
-*.dynatrace.com
 *.citymapper.com
 *.drivewithvia.com
 *.criticalstack.com

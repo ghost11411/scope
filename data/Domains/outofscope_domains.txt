@@ -1971,10 +1971,6 @@ clec.att.com
 prod-taxexempt.att.com
 rcloud.social
 thedirectvmarketingzone.com
-community.dynatrace.com
-playground.apps.dynatrace.com
-university-staging.dynatracelabs.com
-wyq34449.sprint.apps.dynatracelabs.com
 citymapper.com
 remix.com
 ridewithvia.com

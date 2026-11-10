@@ -541,8 +541,6 @@ sip.*.twilio.com
 *.exodus.com
 *.exodus.io
 *.k8s.io
-*.sprint.apps.dynatracelabs.com
-*.sprint.dynatracelabs.com
 *.airstar-finance.com
 *.airstar.com
 *.airstarfinance.net
@@ -1134,10 +1132,6 @@ sip.*.twilio.com
 *.rallyforrestaurant.com
 *.ibizdna.com
 *.rallyforestaurants.com
-*.weareone.world
-*.stag.tomorrowland.com
-*.stag.weareone.world
-*.tomorrowland.com
 *.trouw.nl
 *.truelayer.com
 *.zimpler.net
