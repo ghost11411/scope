@@ -1,14 +1,2 @@
-*.ticketing.cm.com
-*.swisspass.ch
-*.sbb.ch
-*elvetino.ch
-*sbbcargo.com
-*transsicura.ch
-*.voi.com
-*.voiscooters.com
-*.deliciousbrains.com
-*.localwp.com
-*.nitropack.io
-*.studiopress.com
-*.wpengine.io
-*.wpesvc.net
+*.topperpay.com
+*.uphold.com

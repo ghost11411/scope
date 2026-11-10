@@ -653,10 +653,6 @@ g.*.slackhq.com
 *.monzo.me
 *.nexuzhealth.pro
 *.vectus.in
-*.pdq.com
-*.pdq.tools
-*.simplemdm.com
-*.smartdeploy.com
 *.cpa.iqoption.com
 *.brightplus.be
 *.career.be
@@ -681,6 +677,7 @@ g.*.slackhq.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
 *.zimpler.com
+*.uphodl.com
 *.zabka-snrs.zabka.pl
 *.intigriti.io
 *.intigriti.net
@@ -3634,7 +3631,6 @@ pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
-a.simplemdm.com
 personio.de
 personio.slack.com
 statuspage.personio.de
@@ -3689,6 +3685,19 @@ vacatures.uzleuven.be
 forums.ubisoft.com
 ivalua.ubisoft.com
 suppliers-ivalua.ubisoft.com
+api.uphold.com
+wallet.uphold.com
+api.topperpay.com
+app.topperpay.com
+graphql.topperpay.com
+api.enterprise.uphold.com
+cms.optimuscards.com
+status.uphold.com
+uphodl.com
+support.topperpay.com
+support-staging.topperpay.com
+support.uphold.com
+support-sandbox.uphold.com
 cds.vrt.radio
 innovatie.vrt.be
 vtmgo.be
@@ -3701,7 +3710,6 @@ repository.vlerick.com
 spoc.myshopify.com
 vlerick.myshopify.com
 webform.vlerick.com
-marketing.nitropack.io
 getflywheel.com
 zabka-snrs.zabka.pl
 foodziki.zabka.pl
