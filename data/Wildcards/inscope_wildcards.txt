@@ -403,13 +403,10 @@ sip.*.twilio.com
 *.oklink.com
 *.okx.com
 *.happening.dev
-*.luckydays.ca
-*.luckydays.com
 *.napoleoncasino.be
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
-*.spinaway.com
 *.super.xyz
 *.superbet.com
 *.superbet.gr
@@ -895,6 +892,7 @@ sip.*.twilio.com
 *.shopifycloud.com
 *.shopifycs.com
 *.shopifykloud.com
+*.shopifysvc.com
 *.airbnb-aws.com
 *.airbnb.com
 *.airbnb.org
@@ -1132,6 +1130,10 @@ sip.*.twilio.com
 *.rallyforrestaurant.com
 *.ibizdna.com
 *.rallyforestaurants.com
+*.weareone.world
+*.stag.tomorrowland.com
+*.stag.weareone.world
+*.tomorrowland.com
 *.trouw.nl
 *.truelayer.com
 *.zimpler.net
@@ -1147,8 +1149,7 @@ sip.*.twilio.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.voi.com
-*.voiscooters.com
+*.veriff.com
 *.watsons.com.hk
 *.watsons.co.th
 *.watsons.com.tw

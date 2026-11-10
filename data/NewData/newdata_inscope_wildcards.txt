@@ -1,2 +1,6 @@
-*.topperpay.com
-*.uphold.com
+*.shopifysvc.com
+*.weareone.world
+*.stag.tomorrowland.com
+*.stag.weareone.world
+*.tomorrowland.com
+*.veriff.com

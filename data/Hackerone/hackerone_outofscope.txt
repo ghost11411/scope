@@ -539,6 +539,7 @@ dataspanapi.wisdomtree.com
 wisdomtree.com
 wisdomtree.eu
 *.epic.superbet.ro
+*.luckydays.ca
 affiliate.napoleongames.be
 affiliates.superbet.com
 affiliates.superbet.rs
@@ -924,6 +925,7 @@ swecoin.se
 swecoinus.com
 temptimecorp.com
 truecolours.net
+vod.zebra.com
 matrox.com
 multispectral.com
 wherenet.com
@@ -1253,6 +1255,7 @@ pnp.myndr.net
 faraday.ai
 faraday.atlassian.net
 help.evernote.com
+svn.filezilla-project.org
 signrequest.com
 sr-staging-1.com
 *.hcltechsw.com
@@ -2306,12 +2309,13 @@ klassereise.checkfelix.com
 *.highrisehq.com
 basecamp.com
 *.email.shopify.com
-academy.shopify.com
 cdn.shopify.com
 community.shopify.com
 community.shopify.dev
-investors.shopify.com
 livechat.shopify.com
+shopify.photo
+shopifyevents.com
+shopifypartnerships.com
 supplier-portal.shopifycloud.com
 invoices.shopify.io
 factures.shopify.io

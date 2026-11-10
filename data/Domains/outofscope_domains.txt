@@ -1427,6 +1427,7 @@ swecoin.se
 swecoinus.com
 temptimecorp.com
 truecolours.net
+vod.zebra.com
 matrox.com
 multispectral.com
 wherenet.com
@@ -1725,6 +1726,7 @@ pnp.myndr.net
 faraday.ai
 faraday.atlassian.net
 help.evernote.com
+svn.filezilla-project.org
 signrequest.com
 sr-staging-1.com
 oasisprotocol.org
@@ -2590,12 +2592,13 @@ cruises.kayak.com
 kayak.com
 klassereise.checkfelix.com
 basecamp.com
-academy.shopify.com
 cdn.shopify.com
 community.shopify.com
 community.shopify.dev
-investors.shopify.com
 livechat.shopify.com
+shopify.photo
+shopifyevents.com
+shopifypartnerships.com
 supplier-portal.shopifycloud.com
 invoices.shopify.io
 factures.shopify.io
@@ -2904,9 +2907,13 @@ shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
+lsagentrelay.lansweeper.com
+careers.lansweeper.com
+lansweeper.com
 libelle.nl
 actie.libelle.nl
 login.liferay.com
+support.lightspark.com
 community.monzo.com
 login.internal.monzo.com
 monzo.me
@@ -2915,6 +2922,7 @@ pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
+a.simplemdm.com
 personio.de
 personio.slack.com
 statuspage.personio.de
@@ -2987,6 +2995,7 @@ innovatie.vrt.be
 vtmgo.be
 shop.vtm.be
 customerservice.vtm.be
+station.veriff.com
 enterprise.vlerick.com
 enterprise2.vlerick.com
 mastersblog.vlerick.com
