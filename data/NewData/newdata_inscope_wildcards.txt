@@ -1,6 +1,2 @@
-*.shopifysvc.com
-*.weareone.world
-*.stag.tomorrowland.com
-*.stag.weareone.world
-*.tomorrowland.com
-*.veriff.com
+*.maxbet.ro
+*.bitmex.com
