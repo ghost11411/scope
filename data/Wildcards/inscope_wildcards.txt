@@ -299,6 +299,7 @@ np.*.lfscnp.com
 *.verisign-grs.com
 *.viatorinc.com
 *.viator.com
+*.integrations.vintedgo.com
 *.volkswagen.de
 *.transferwise.com
 *.wise.com
@@ -1151,7 +1152,6 @@ sip.*.twilio.com
 *.playuzleuven.be
 *.vtm.be
 *.vtmgo.be
-*.veriff.com
 *.aww.be
 *.water-link.be
 *.mijnwater-link.be
