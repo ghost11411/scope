@@ -2924,7 +2924,6 @@ pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
-a.simplemdm.com
 future.portofantwerp.com
 future.portofantwerpbruges.com
 jobs.portofantwerp.com
