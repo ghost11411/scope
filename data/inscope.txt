@@ -1993,9 +1993,6 @@ webapp.simplisafe.com
 webapp.simplisafe.co.uk
 mfa.simplisafe.com
 media.simplisafe.com
-simplisafe.com
-simplisafe.co.uk
-api.prd.commerce.simplisafe.com
 skroutz.gr
 gateway.skyscanner.net
 skyscanner.net
@@ -2478,6 +2475,8 @@ prime.plata.co
 lb1.iris.cgophobb.com
 admin.meeshosupply.com
 affiliate.meesho.com
+console.valmo.in
+grocery-supplier.meesho.com
 investor.meesho.com
 meesho.io
 prod.meeshoapi.com
@@ -3291,8 +3290,6 @@ api.dicey.com
 dicey.com
 kronor.io
 payment-gateway.kronor.io
-my.sheer.com
-sheer.com
 apix.vodafone.om
 om.vodafone.mva
 vfo01.vodafone.om
@@ -5461,10 +5458,6 @@ idp-contact.nexuzhealth.be
 media.nexuzhealth.be
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
-auth2.pdq.com
-library.pdq.com
-portal.pdq.com
-app.pdq.com
 hstconboarding.peoplecert.org
 atv.peoplecert.org
 selt.languagecert.org
@@ -5766,7 +5759,6 @@ boursobank.com
 edge.blablacar
 auth.blablacar
 m.blablacar
-bounty.cryptobox.com
 cyberghost.com
 cyberghost.app
 api.cyberghostvpn.com

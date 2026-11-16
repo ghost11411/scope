@@ -1,15 +1,2 @@
-challenge-1126.intigriti.io
-auth2.pdq.com
-library.pdq.com
-portal.pdq.com
-app.pdq.com
-api.personio-dev.com
-api.personio.com
-hug.personio.com
-personio.de
-personio.com
-community.personio.com
-api.boursobank.com
-clients.boursobank.com
-tradingboard.boursobank.com
-boursobank.com
+console.valmo.in
+grocery-supplier.meesho.com
