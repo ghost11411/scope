@@ -1149,6 +1149,10 @@ sip.*.twilio.com
 *.tweakimg.net
 *.vtm.be
 *.vtmgo.be
+*.veriff.com
+*.aww.be
+*.water-link.be
+*.mijnwater-link.be
 *.watsons.com.hk
 *.watsons.co.th
 *.watsons.com.tw
