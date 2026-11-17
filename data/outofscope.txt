@@ -243,7 +243,6 @@ argocd.*.uidapi.com
 *.teachable.com
 *.buildstaging.com
 *.hubspot.com
-*.agilebits.com
 *.zipbooks.com
 *.pgs.casino
 *.amazonaws.com
@@ -1677,8 +1676,6 @@ ir.hubspot.com
 shop.hubspot.com
 thespot.hubspot.com
 trust.hubspot.com
-support.1password.com
-1password.com
 arc.net
 company.thebrowser.arc
 about.espnbet.com

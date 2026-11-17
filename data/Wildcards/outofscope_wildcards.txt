@@ -243,7 +243,6 @@ argocd.*.uidapi.com
 *.teachable.com
 *.buildstaging.com
 *.hubspot.com
-*.agilebits.com
 *.zipbooks.com
 *.pgs.casino
 *.amazonaws.com
