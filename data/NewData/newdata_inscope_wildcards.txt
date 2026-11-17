@@ -1,4 +1,4 @@
-*.veriff.com
-*.aww.be
-*.water-link.be
-*.mijnwater-link.be
+*.ninjakiwi.me
+*.nkstatic.com
+*.kwsdose.be
+*.playuzleuven.be

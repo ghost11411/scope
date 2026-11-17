@@ -444,7 +444,6 @@ bus.*.indrive.com
 *.wlnp.att.com
 *.workdayinfortraining.att.com
 *tworks-att.com
-*solidus.io
 *.citymapper.com
 *.drivewithvia.com
 *.criticalstack.com
@@ -610,6 +609,7 @@ status.*.coinbase.com
 *.glitchthegame.com
 g.*.slackhq.com
 *.rubyonrails.org
+*.agilebits.com
 *.aikido.dev
 *.allegro.cz
 *.allegro.pl

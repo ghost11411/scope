@@ -1340,6 +1340,7 @@ support.moonpay.com
 bot.cadburygifting.in
 gifts.tatesbakeshop.com
 cadburygifting.in
+lojamondelez.com.br
 lu.fr
 mavieencouleurs.fr
 api-an.capitalone.com
@@ -1403,6 +1404,7 @@ sdk-docs.krisp.ai
 url5145.krisp.ai
 voice-ai-newsletter.krisp.ai
 whatsnew.krisp.ai
+croamis.latamcargo.com
 dc-cert.latam.com
 dcci-stage.latam.com
 dcci.latam.com
@@ -2109,6 +2111,7 @@ moments.marriott.com
 oasisprod.marriott.com
 ofhub.marriott.com
 psp.marriott.com
+reservations.all-inclusive.marriott.com
 springhillsuites.marriott.com
 ssm-marriottms.saviyntcloud.com
 towneplacesuites.marriott.com
@@ -2815,6 +2818,8 @@ unbounce.com
 ma.hacker.one
 support.hackerone.com
 hackeronestatus.com
+1password.com
+support.1password.com
 actie.ad.nl
 adtechnology.axelspringer.com
 kroki.devops.buhlergroup.com
@@ -2931,6 +2936,11 @@ pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
+rancher.ninjakiwi.com
+rancher.ninjakiwi.me
+store.ninjakiwi.com
+support.ninjakiwi.com
+icarusadmin.ninjakiwi.com
 a.simplemdm.com
 personio.de
 personio.slack.com
@@ -2975,6 +2985,14 @@ trouw.nl
 abonnement.trouw.nl
 actie.trouw.nl
 elect.tweakers.net
+boekentoy.uzleuven.be
+uz-laboboeken.web.app
+laboboeken.uzleuven.be
+boekentoy.firebaseio.com
+uz-laboboeken.firebaseio.com
+jobs.uzleuven.be
+uzleuven.atlassian.net
+vacatures.uzleuven.be
 forums.ubisoft.com
 ivalua.ubisoft.com
 suppliers-ivalua.ubisoft.com
