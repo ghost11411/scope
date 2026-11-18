@@ -1,4 +1,7 @@
-*.ninjakiwi.me
-*.nkstatic.com
-*.kwsdose.be
-*.playuzleuven.be
+*.nordvpn.com
+*.nordpass.com
+*.nordlocker.com
+*.nordaccount.com
+*.nordcheckout.com
+*.algolia.net
+*.algolianet.com

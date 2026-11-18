@@ -58,6 +58,7 @@ auth.*.latitudefinancial.com
 *.blstr.co
 *.lululemon.cn
 *.lululemon.me
+*.nordvpn.com
 *.nuinternational.com
 *.nat-a.nubank.com.br
 *.octopus.app

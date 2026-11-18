@@ -181,6 +181,11 @@ np.*.lfscnp.com
 *.myfitnesspal.com
 *.nr-data.net
 *.nr-ops.net
+*.nordvpn.com
+*.nordpass.com
+*.nordlocker.com
+*.nordaccount.com
+*.nordcheckout.com
 *.northwesternmutual.com
 *.nml.com
 *.nmfn.com
@@ -875,6 +880,8 @@ sip.*.twilio.com
 *.tstaging.com
 *.tstaging.tools
 *.fetlife.com
+*.algolia.net
+*.algolianet.com
 *.grab-sure.com
 *.grab.co
 *.grab.com
@@ -1149,8 +1156,6 @@ sip.*.twilio.com
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
-*.kwsdose.be
-*.playuzleuven.be
 *.vtm.be
 *.vtmgo.be
 *.veriff.com
