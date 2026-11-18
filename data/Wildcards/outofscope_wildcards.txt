@@ -194,6 +194,7 @@ argocd.*.uidapi.com
 *.cas.l3harris.com
 *.cts.l3harris.com
 *.ondato.net
+*.ramp.twilio.com
 *.dashapi.com
 *.doorcrawl.com
 *.order.online
