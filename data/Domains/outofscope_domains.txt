@@ -220,9 +220,6 @@ blog-parceiros.ifood.com.br
 gogbackend.com
 godsunchained.com
 ropsten.imx.community
-powerpak.com
-medjobnetwork.com
-checkout.webmd.com
 irobot.com
 irobot.ca
 irobot.at
