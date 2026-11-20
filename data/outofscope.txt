@@ -2124,7 +2124,6 @@ static.tenable.com
 suggestions.tenable.com
 university.tenable.com
 tenable.com
-sellingpilot.newegg.com
 community.fastly.com
 connect.fastly.com
 metabase.krisp.ai
