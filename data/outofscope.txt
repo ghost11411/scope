@@ -198,6 +198,13 @@ argocd.*.uidapi.com
 *.dashapi.com
 *.doorcrawl.com
 *.order.online
+*.olaplex-dev.com
+*.olaplex-test.com
+*.olaplex.co.nz
+*.olaplex.com
+*.olaplex.de
+*.olaplex.es
+*.olaplexusers.com
 *.account.docusign.com
 *.partners.wavelo.com
 *.tucows.com
@@ -3694,8 +3701,6 @@ media.portofantwerpbruges.com
 register.portofantwerp.com
 register.portofantwerpbruges.com
 oursustainableport.com
-developer.posti.com
-posti.fi
 pen-app.entrili.com
 exams.ripe.net
 labs.ripe.net
