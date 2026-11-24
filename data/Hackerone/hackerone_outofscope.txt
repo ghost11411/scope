@@ -55,6 +55,9 @@ familiainstitucional.com
 familiainstitucional.com.bo
 familiainstitucional.com.do
 familiainstitucional.com.ec
+tena.com.my
+tena.com.sg
+tena.ph
 *.cdssandbox.xyz
 ai-answers.alpha.canada.ca
 ai-answers.cdssandbox.xyz
