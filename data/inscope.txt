@@ -938,6 +938,9 @@ sip.*.twilio.com
 *.hackerone-ext-content.com
 *.hackerone-user-content.com
 *.ad.nl
+*.allegro.cz.allegrosandbox.pl
+*.allegro.pl.allegrosandbox.pl
+*.allegro.sk.allegrosandbox.pl
 *.attentia.be
 *.asadcdn.com
 *.hey.bild.de
@@ -1063,6 +1066,8 @@ sip.*.twilio.com
 *.prd.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
+*.ninjakiwi.me
+*.nkstatic.com
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
@@ -5464,6 +5469,16 @@ liquidfiles.nexuzhealth.com
 idp-url.nexuzhealth.be
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be
+analytics.ninjakiwi.com
+api.ninjakiwi.com
+guts.ninjakiwi.com
+battles.tv
+data.ninjakiwi.com
+ninja.kiwi
+alerts.ninjakiwi.com
+boomer2.ninjakiwi.com
+ct.ninjakiwi.com
+mynk-dash.ninjakiwi.com
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
 auth2.pdq.com
